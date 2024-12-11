@@ -1,0 +1,278 @@
+1 
+
+ 
+
+ 
+Załącznik nr 6  
+do Regulaminu wyboru projektów 
+nr FEMP.02.09-IZ.00-109/24 
+
+ 
+
+Katalog wskaźników obligatoryjnych 
+
+ 
+
+Działanie FEMP.02.09 GOSPODAROWANIE WODAMI 
+tryb konkurencyjny 
+
+ 
+
+Typ projektu:  
+A. Zwiększenie retencyjności zlewni, w tym: rozwój różnych form małej retencji 
+
+ 
+
+Nazwa wskaźnika Nowo wybudowane lub wzmocnione środki ochrony 
+przeciwpowodziowej wybrzeża morskiego oraz brzegów 
+rzek i jezior 
+Kod wskaźnika RCO025 
+Jednostka miary km 
+Rodzaj wskaźnika Produkt (obowiązkowy) 
+Definicja wskaźnika Długość wybrzeża morskiego, brzegów rzek i jezior 
+chronionych przed ekstremalnymi zdarzeniami pogodowymi. 
+Wspierana infrastruktura ochronna powinna być nowo 
+wybudowana lub znacznie wzmocniona. 
+ 
+Nazwa wskaźnika Długość wybudowanych, przebudowanych lub 
+zmodernizowanych wałów przeciwpowodziowych1 
+Kod wskaźnika PLRO239 
+Jednostka miary km 
+Rodzaj wskaźnika Produkt (obowiązkowy) 
+Definicja wskaźnika Długość wybudowanych, przebudowanych lub 
+zmodernizowanych wałów przeciwpowodziowych, w ramach 
+dofinansowanego projektu. 
+
+ 
+
+Nazwa wskaźnika Pojemność obiektów małej retencji 
+Kod wskaźnika PLRO044 
+Jednostka miary m3 
+Rodzaj wskaźnika Produkt (obowiązkowy) 
+Definicja wskaźnika Wskaźnik mierzy możliwą do uzyskania pojemność 
+retencjonowania wody w wyniku budowy lub przebudowy 
+obiektów małej retencji. 
+
+                                                           
+1 Wskaźnik powinien być wybierany łącznie ze wskaźnikiem RCO025 Nowo wybudowane lub wzmocnione środki ochrony 
+przeciwpowodziowej wybrzeża morskiego oraz brzegów rzek i jezior.  
+
+
+2 
+
+ 
+
+Obiekty małej retencji – budowle i urządzenia służące 
+zatrzymaniu jak największej ilości wody w jej powierzchniowym 
+i przypowierzchniowym obiegu. Są to:  
+1) sztuczne zbiorniki wodne o pojemności do 5 mln m3;  
+2) samodzielne budowle piętrzące i ujęcia wody;  
+3) stawy rybne;  
+4) inne budowle piętrzące lub transportujące wodę.                                                                                                                                                                                                                                                                   
+Sposób pomiaru: należy zliczyć potencjalną pojemność 
+retencjonowania wody możliwą do uzyskania w wyniku budowy 
+lub przebudowy obiektów małej retencji. 
+
+ 
+
+Nazwa wskaźnika Liczba wybudowanych, przebudowanych i 
+wyremontowanych urządzeń wodnych (w tym obiektów 
+kompleksowych) 
+Kod wskaźnika PLRO167 
+Jednostka miary szt. 
+Rodzaj wskaźnika Produkt (obowiązkowy) 
+Definicja wskaźnika Liczba urządzeń i infrastruktury towarzyszącej, służących 
+zmniejszeniu skutków powodzi lub suszy, które zostały 
+wybudowane, przebudowane i wyremontowane w ramach 
+dofinansowanego projektu. 
+
+ 
+
+Nazwa wskaźnika Wartość inwestycji w nowe/ przebudowane/ 
+wyremontowane urządzenia wodne i infrastruktury 
+towarzyszącej 
+Kod wskaźnika PLRO177 
+Jednostka miary PLN 
+Rodzaj wskaźnika Produkt (obowiązkowy) 
+Definicja wskaźnika Łączna wartość inwestycji w projekty wspierające nowe/ 
+przebudowane/ wyremontowane urządzenia wodne i 
+infrastrukturę towarzyszącą służących zmniejszeniu skutków 
+susz i powodzi. 
+
+ 
+
+Nazwa wskaźnika Powierzchnia obszaru zagrożonego powodzią lub 
+katastrofą urządzenia wodnego, która zostanie objęta 
+ochroną w wyniku realizacji inwestycji 
+Kod wskaźnika PLRO166 
+Jednostka miary ha 
+Rodzaj wskaźnika Produkt (obowiązkowy) 
+Definicja wskaźnika Powierzchnia objęta środkami ochrony przed powodzią nowo 
+wybudowanymi lub znacznie zmodernizowanymi w ramach 
+wspieranych projektów. 
+
+ 
+
+ 
+
+
+3 
+
+ 
+
+Nazwa wskaźnika Ludność odnosząca korzyści ze środków ochrony 
+przeciwpowodziowej 
+Kod wskaźnika RCR035 
+Jednostka miary osoby 
+Rodzaj wskaźnika Rezultat (obowiązkowy) 
+Definicja wskaźnika Ludność zamieszkująca tereny, na których wybudowano lub 
+znacząco zmodernizowano infrastrukturę ochronną (w tym 
+także zieloną infrastrukturę w celu przystosowanie się do zmian 
+klimatu) w celu zmniejszenia podatności na ryzyko związane z 
+powodziami. Wskaźnik uwzględnia ludność zamieszkującą na 
+obszarach zagrożonych powodzią. 
+
+ 
+
+Nazwa wskaźnika Ludność odnosząca korzyści ze środków ochrony przed 
+klęskami żywiołowymi związanymi z klimatem (oprócz 
+powodzi lub niekontrolowanych pożarów) 
+Kod wskaźnika RCR037 
+Jednostka miary osoby 
+Rodzaj wskaźnika Rezultat (obowiązkowy) 
+Definicja wskaźnika Ludność zamieszkująca na obszarach narażonych na klęski 
+żywiołowe związane z klimatem, inne niż powodzie i 
+niekontrolowane pożary (burze, susze, fale upałów), gdzie 
+podatność na takie zagrożenia zmniejsza się w wyniku 
+projektów objętych wsparciem. Wskaźnik obejmuje środki 
+ochrony, zagrożone obszary i środki, które bezpośrednio 
+dotyczą konkretnych zagrożeń, w przeciwieństwie do bardziej 
+ogólnych środków wdrażanych na poziomie krajowym lub 
+regionalnym. 
+
+ 
+
+Wskaźniki informacyjne stosowane w ramach wszystkich celów 
+szczegółowych 
+
+ 
+
+W sytuacji, gdy realizacja projektu wpływa/będzie wpływać na wykonanie poniższych 
+wskaźników, Wnioskodawca zobligowany jest do ich monitorowania na etapie 
+realizacji projektu, w celach informacyjnych. 
+Wartość docelową wskaźników informacyjnych w ramach projektów EFRR/FST 
+określa się na poziomie „0”. 
+W projektach EFS+ oraz w projektach FST, w których wsparcie udzielane jest 
+bezpośrednio uczestnikom konieczne jest wybranie wszystkich poniżej 
+wymienionych wskaźników. W tym przypadku wartość docelowa wskaźników 
+informacyjnych może wynieść „0”. 
+Poziom wykonania wskaźników informacyjnych w projekcie nie stanowi przedmiotu 
+rozliczenia z Beneficjentem. 
+
+ 
+
+ 
+
+
+4 
+
+ 
+
+Nazwa wskaźnika Liczba obiektów dostosowanych do potrzeb osób z 
+niepełnosprawnościami (EFRR/FST/FS) 
+Kod wskaźnika PLRO132 
+Jednostka miary szt. 
+Rodzaj wskaźnika Produkt (obowiązkowy) 
+Definicja wskaźnika Wskaźnik odnosi się do liczby obiektów w ramach 
+realizowanego projektu, które zaopatrzono w specjalne 
+podjazdy, windy, urządzenia głośnomówiące, bądź inne 
+udogodnienia (tj. usunięcie barier w dostępie, w szczególności 
+barier architektonicznych) ułatwiające dostęp do tych obiektów i 
+poruszanie się po nich osobom z niepełnosprawnościami, w 
+szczególności ruchowymi czy sensorycznymi. Jako obiekty 
+należy rozumieć konstrukcje połączone z gruntem w sposób 
+trwały, wykonane z materiałów budowlanych i elementów 
+składowych, będące wynikiem prac budowlanych (wg. def. 
+PKOB). Należy podać liczbę obiektów, a nie sprzętów, 
+urządzeń itp., w które obiekty zaopatrzono. Jeśli instytucja, 
+zakład itp. składa się z kilku obiektów, należy zliczyć wszystkie, 
+które dostosowano do potrzeb osób z niepełnosprawnościami. 
+Wskaźnik mierzony w momencie rozliczenia wydatku 
+związanego z wyposażeniem obiektów w rozwiązania służące 
+osobom z niepełnosprawnościami w ramach danego projektu. 
+
+ 
+
+Nazwa wskaźnika Liczba projektów, w których sfinansowano koszty 
+racjonalnych usprawnień dla osób z 
+niepełnosprawnościami (EFRR/FST/FS) 
+Kod wskaźnika PLRO199 
+Jednostka miary szt. 
+Rodzaj wskaźnika Produkt (obowiązkowy) 
+Definicja wskaźnika Racjonalne usprawnienie oznacza konieczne i odpowiednie 
+zmiany oraz dostosowania, nie nakładające 
+nieproporcjonalnego lub nadmiernego obciążenia, 
+rozpatrywane osobno dla każdego konkretnego przypadku, w 
+celu zapewnienia osobom z niepełnosprawnościami możliwości 
+korzystania z wszelkich praw człowieka i podstawowych 
+wolności oraz ich wykonywania na zasadzie równości z innymi 
+osobami. Wskaźnik mierzony w momencie rozliczenia wydatku 
+związanego z racjonalnymi usprawnieniami w ramach danego 
+projektu. Przykłady racjonalnych usprawnień: tłumacz języka 
+migowego, transport niskopodłogowy, dostosowanie 
+infrastruktury (nie tylko budynku, ale też dostosowanie 
+infrastruktury komputerowej np. programy powiększające, 
+mówiące, drukarki materiałów w alfabecie Braille'a), osoby 
+asystujące, odpowiednie dostosowanie wyżywienia. Do 
+wskaźnika powinny zostać wliczone zarówno projekty 
+
+
+5 
+
+ 
+
+ogólnodostępne, w których sfinansowano koszty racjonalnych 
+usprawnień, jak i dedykowane (zgodnie z kategoryzacją 
+projektów z Wytycznych w zakresie realizacji zasad 
+równościowych w ramach funduszy unijnych na lata 2021-
+2027). Na poziomie projektu wskaźnik może przyjmować 
+maksymalną wartość 1 - co oznacza jeden projekt, w którym 
+sfinansowano koszty racjonalnych usprawnień dla osób z 
+niepełnosprawnościami. Liczba sfinansowanych racjonalnych 
+usprawnień, w ramach projektu, nie ma znaczenia dla wartości 
+wykazywanej we wskaźniku. Definicja na podstawie: Wytyczne 
+w zakresie realizacji zasad równościowych w ramach funduszy 
+unijnych na lata 2021-2027. 
+
+ 
+
+Nazwa wskaźnika Miejsca pracy utworzone we wspieranych jednostkach 
+Kod wskaźnika RCR001 
+Jednostka miary EPC 
+Rodzaj wskaźnika Rezultat (obowiązkowy) 
+Definicja wskaźnika Liczba miejsc pracy wyrażona w średnich rocznych 
+ekwiwalentach pełnego czasu pracy (EPC) utworzonych w 
+ramach działalności wspieranej przez projekt. Nowe stanowiska 
+muszą być obsadzone i mogą być w pełnym wymiarze godzin, 
+w niepełnym wymiarze godzin lub powtarzać się sezonowo. 
+Wolne stanowiska nie są liczone. Ponadto oczekuje się, że 
+nowo utworzone stanowiska zostaną utrzymane przez ponad 
+rok po zakończeniu projektu. Wskaźnik jest obliczany jako 
+różnica między rocznymi EPC obsadzonymi przed 
+rozpoczęciem projektu i rok po zakończeniu projektu w ramach 
+wspieranej działalności. Roczne EPC definiuje się jako 
+stosunek godzin pracy przepracowanych efektywnie w ciągu 
+roku kalendarzowego podzielony przez całkowitą liczbę godzin 
+umownie przepracowanych w tym samym okresie przez osobę 
+lub grupę. Zgodnie z konwencją dana osoba nie może 
+wykonywać więcej niż jednego EPC rocznie. Liczba godzin 
+umownie przepracowanych ustalana jest na podstawie 
+normatywnych/ustawowych godzin pracy zgodnie z krajowym 
+ustawodawstwem. Osoba pracująca w pełnym wymiarze czasu 
+pracy zostanie zidentyfikowana w odniesieniu do jej statusu 
+zatrudnienia i rodzaju umowy (pełny lub niepełny etat). 
+Wskaźnik ten nie powinien być stosowany do uwzględnienia 
+miejsc pracy dla naukowców, które należy zgłaszać w ramach 
+RCR102. 
+Definicje zostały opracowane na podstawie: Listy Wskaźników Kluczowych EFRR (obowiązkowych) 
+obowiązującej od dnia 15.10.2024 r. 
