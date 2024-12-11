@@ -1,0 +1,2031 @@
+1 
+
+ 
+
+Załącznik 
+do Uchwały Nr 2595/24 Zarządu Województwa Małopolskiego 
+z dnia 3 grudnia 2024 r. 
+
+ 
+
+Fundusze Europejskie dla Małopolski 2021-2027 
+
+Regulamin wyboru projektów  
+dla Priorytetu 2 Fundusze europejskie dla środowiska  
+Działanie 2.9 Gospodarowanie wodami 
+typ projektu: 
+A. Zwiększenie retencyjności zlewni, w tym: rozwój różnych form małej 
+retencji  
+
+Nabór nr FEMP.02.09-IZ.00-109/24  
+
+Ogłoszony: 06.12.2024 r.  
+z terminem składania wniosków  
+Od 09.12.2024 r. do 07.02.2025 r. 
+
+Instytucja prowadząca nabór: 
+
+Urząd Marszałkowski Województwa Małopolskiego  
+Departament Funduszy Europejskich  
+ul. Wielicka 72 B, 30-552 Kraków 
+
+
+2 
+
+ 
+
+Spis treści 
+Wykaz skrótów ................................................................................................................... 3 
+ROZDZIAŁ 1 ZAKRES OBOWIĄZYWANIA REGULAMINU ............................................... 4 
+ROZDZIAŁ 2 SZCZEGÓŁOWE INFORMACJE DOT. NABORU ......................................... 5 
+2.1 Termin naboru wniosków o dofinansowanie projektów ............................................5 
+2.2 Przedmiot naboru ....................................................................................................7 
+2.3 Wnioskodawcy i Beneficjenci ................................................................................ 13 
+2.4 Dofinansowanie projektów .................................................................................... 14 
+2.5 Kwalifikowalność wydatków .................................................................................. 16 
+2.6 Pomoc de minimis i pomoc publiczna ................................................................... 18 
+2.7 Zgodność z wytycznymi specyficznymi ................................................................. 22 
+ROZDZIAŁ 3 PROCEDURA OCENY PROJEKTÓW ......................................................... 23 
+3.1 Ocena wniosku o dofinansowanie projektu ........................................................... 23 
+3.2 Informacje kierowane do Wnioskodawcy............................................................... 35 
+3.3 Podanie do publicznej wiadomości wyników oceny ............................................... 35 
+ROZDZIAŁ 4 PROCEDURA ODWOŁAWCZA .................................................................. 36 
+ROZDZIAŁ 5 REALIZACJA PROJEKTU .......................................................................... 37 
+5.1 Umowa / Uchwała / Porozumienie......................................................................... 37 
+5.2 Działania informacyjne i promocyjne ..................................................................... 38 
+ROZDZIAŁ 6 POSTANOWIENIA OGÓLNE ...................................................................... 38 
+6.1 Terminy i doręczenia ............................................................................................. 38 
+6.2 Forma i sposób udzielania informacji w kwestiach dotyczących naboru ................ 39 
+6.3 System IGA ........................................................................................................... 40 
+6.4 Wymagania dotyczące wniosku o dofinansowanie projektu .................................. 41 
+ROZDZIAŁ 7 POSTANOWIENIA KOŃCOWE ................................................................... 42 
+ROZDZIAŁ 8 WYKAZ DEFINICJI ...................................................................................... 44 
+ROZDZIAŁ 9 ZAŁĄCZNIKI DO REGULAMINU ................................................................ 49 
+Załącznik nr 1 Kryteria wyboru projektów. ....................................................................... 49 
+Załącznik nr 2 Wykaz informacji specyficznych i załączników do wniosku 
+o dofinansowanie. ............................................................................................................ 49 
+Załącznik nr 3 Analiza Finansowa – wzór FEM 2021-2027 .............................................. 49 
+Załącznik nr 4a Wzór umowy o dofinansowanie Projektu. ................................................ 49 
+Załącznik nr 4b Wzór Uchwały ZWM w sprawie podjęcia decyzji o dofinansowaniu 
+projektu. ............................................................................................................... 49 
+Załącznik nr 4c Wzór Porozumienia o dofinansowaniu Projektu. ..................................... 49 
+Załącznik nr 5 Procedura odwoławcza wraz ze wzorem protestu. ................................... 49 
+Załącznik nr 6 Katalog wskaźników obligatoryjnych. ........................................................ 49 
+Załącznik nr 7 Informacje niezbędne do podpisania umowy o dofinansowanie projektu / 
+przygotowania uchwały w sprawie realizacji projektu dla którego Beneficjentem jest 
+Województwo Małopolskie. .............................................................................................. 49 
+
+ 
+
+ 
+
+
+3 
+
+Wykaz skrótów 
+Departament FE – Departament Funduszy Europejskich Urzędu Marszałkowskiego 
+Województwa Małopolskiego; 
+Departament MW – Departament Monitorowania Wdrażania FE Urzędu 
+Marszałkowego Województwa Małopolskiego; 
+EFRR – Europejski Fundusz Rozwoju Regionalnego; 
+EFS+ – Europejski Fundusz Społeczny Plus; 
+FEM 2021-2027 – program Fundusze Europejskie dla Małopolski 2021-2027; 
+FST – Fundusz na rzecz Sprawiedliwej Transformacji; 
+IIT OPK – Inne Instrumenty Terytorialne Otulina Podkrakowska; 
+IZ – Instytucja Zarządzająca programem FEM 2021-2027; 
+IP – Instytucja Pośrednicząca w programie FEM 2021-2027; 
+KM FEM 2021-2027 – Komitet Monitorujący FEM 2021-2027; 
+KOP – Komisja Oceny Projektów; 
+KPA – ustawa z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego; 
+Portal – Portal Funduszy Europejskich www.funduszeeuropejskie.gov.pl; 
+Strona internetowa programu – serwis internetowy programu FEM 2021-2027, 
+tj. strona internetowa: www.fundusze.malopolska.pl;  
+System IGA – Internetowy Generator Aplikacyjny udostępniany przez IZ, dostępny na 
+stronie: https://iga.malopolska.pl 
+SzOP FEM 2021-2027 – Szczegółowy Opis Priorytetów programu Fundusze 
+Europejskie dla Małopolski 2021-2027; 
+UPO – urzędowe poświadczenie odbioru w rozumieniu art. 3 pkt. 20 ustawy z dnia 
+17 lutego 2005 r. o Informatyzacji działalności podmiotów realizujących zadania 
+publiczne; 
+Ustawa – ustawa z dnia 28 kwietnia 2022 r. o zasadach realizacji zadań 
+finansowanych ze środków europejskich w perspektywie finansowej 2021-2027; 
+Wademekum – Wademekum wiedzy o wniosku; 
+ZIT – Zintegrowane Inwestycje Terytorialne 
+ZWM – Zarząd Województwa Małopolskiego. 
+ 
+
+
+4 
+
+ROZDZIAŁ 1 ZAKRES OBOWIĄZYWANIA REGULAMINU  
+§1 
+1. Regulamin wyboru projektów dla Priorytetu 2 Fundusze europejskie dla 
+środowiska, Działanie 2.9 Gospodarowanie wodami, typ projektu A Zwiększenie 
+retencyjności zlewni, w tym: rozwój różnych form małej retencji w ramach 
+programu Fundusze Europejskie dla Małopolski 2021-2027, zwany jest dalej 
+Regulaminem. 
+2. Wybór projektów dokonywany jest w sposób konkurencyjny. 
+3. Regulamin określa w szczególności warunki i przedmiot postępowania, katalog 
+potencjalnych Wnioskodawców, termin składania wniosków, a także zasady 
+oceny i wyboru projektów dokonywane na podstawie złożonych w ramach 
+postępowania wniosków o dofinansowanie. 
+4. Postępowanie realizowane jest w trybie naboru zamkniętego. 
+5. Celem postępowania jest wybór do dofinansowania projektów spełniających 
+kryteria wyboru oraz które wśród projektów z wymaganą minimalną liczbą 
+punktów, uzyskały kolejno największą ich liczbę i które mieszczą się w dostępnej 
+alokacji wskazanej w Regulaminie.  
+§2 
+1. Nabór wniosków o dofinansowanie projektów prowadzi IZ, której funkcje 
+i zadania w postępowaniu realizuje Departament FE. 
+2. Wniosek o dofinansowanie projektu jest przygotowywany i wraz z załącznikami 
+składany wyłącznie za pośrednictwem Systemu IGA, który jest dostępny na 
+stronie internetowej https://iga.malopolska.pl. 
+§3 
+1. Przystąpienie do naboru jest równoznaczne z akceptacją przez Wnioskodawcę 
+postanowień Regulaminu, w tym zgodą na doręczanie pism za pomocą Systemu 
+IGA, zgodnie z dalszymi postanowieniami Regulaminu. 
+2. Złożenie wniosku o dofinansowanie projektu, oznacza wyrażenie zgody na 
+udostępnienie wniosku IZ oraz innym instytucjom oraz ekspertom dokonującym 
+ewaluacji i oceny oraz na udział w badaniach ewaluacyjnych FEM 2021-2027. 
+Beneficjent oraz Partnerzy są zobowiązani do współpracy z IZ, IP oraz 
+podmiotami zewnętrznymi, realizującymi badanie ewaluacyjne na zlecenie IZ, IP 
+lub innego uprawnionego podmiotu. Beneficjent oraz Partnerzy są zobowiązani 
+do zbierania i przekazywania każdorazowo na wniosek ww. podmiotów 
+dokumentów i udzielania informacji na temat Projektu, niezbędnych do 
+przeprowadzenia badania ewaluacyjnego. Jeśli Beneficjent / Partner realizuje 
+projekty, w których przewidziany jest udział uczestników projektu informuje i 
+
+
+5 
+
+wskazuje w zapisach umowy z uczestnikiem projektu obowiązek poddania się 
+przez niego ewaluacji oraz udostępnienia swoich danych, w tym danych 
+teleadresowych. 
+3. Beneficjent zobowiązuje się do zapewnienia mechanizmów dotyczących unikania 
+konfliktu interesów osób uczestniczących w wykonaniu budżetu UE, zgodnie z 
+przepisem art. 61 rozporządzenia Parlamentu Europejskiego i Rady (UE, 
+EURATOM) nr 2024/2509 z 23 września 2024 r w sprawie zasad finansowych 
+mających zastosowanie do budżetu ogólnego Unii. (Dz.U. L, 2024/2509, 
+26.9.2024), jak również zapewnienia odpowiednich mechanizmów weryfikacji 
+bezstronności przy realizacji zadań w projekcie. 
+4. Zasady przetwarzania danych osobowych w ramach FEM 2021-2027 odnoszą 
+się bezpośrednio do rozdziału 18 Ustawy. Na podstawie art. 88 Ustawy IZ pełni 
+funkcję administratora danych osobowych. (Więcej informacji na ten temat: 
+Informacja o przetwarzaniu danych osobowych | Serwis programu Fundusze 
+Europejskie dla Małopolski 2021-2027).  
+Wnioskodawca jako administrator danych osobowych, zgodnie z art. 88 Ustawy 
+jest zobowiązany do stosowania RODO oraz krajowych przepisów dotyczących 
+ochrony danych osobowych. 
+§4 
+Do postępowania przewidzianego w przepisach Regulaminu nie stosuje się przepisów 
+KPA z wyjątkiem przepisów dotyczących wyłączenia pracowników organu i sposobu 
+obliczania terminów, z zastrzeżeniem §29 ust. 5 i §34 ust. 4 Regulaminu. 
+
+ROZDZIAŁ 2 SZCZEGÓŁOWE INFORMACJE DOT. NABORU 
+
+2.1 Termin naboru wniosków o dofinansowanie projektów 
+§5 
+1. Nabór wniosków o dofinansowanie projektów trwa od dnia 9 grudnia 2024 r. 
+(dzień otwarcia naboru i udostępnienia formularza wniosku o dofinansowanie 
+projektu w Systemie IGA w sposób umożliwiający składanie wniosków 
+o dofinansowanie projektów) do dnia 7 lutego 2025 r. do godziny 15:00:001 
+(dzień zamknięcia naboru i godzina blokady Systemu IGA), z zastrzeżeniem   
+ust. 2. 
+2. W uzasadnionych przypadkach, termin naboru wniosków o dofinansowanie 
+projektów może zostać wydłużony. Informacja w tym zakresie zostanie 
+zamieszczona na stronie internetowej programu oraz na Portalu. 
+                                                           
+1 Usługi pomocy technicznej Systemu IGA w zakresie funkcjonowania systemu oraz technicznych 
+aspektów wypełniania wniosku są oferowane w godzinach pracy Urzędu Marszałkowskiego 
+Województwa Małopolskiego tj. od poniedziałku do piątku w godzinach 8.00-16.00.  
+
+
+6 
+
+3. Wnioskodawca zamierzający uczestniczyć w naborze zobowiązany jest złożyć 
+wniosek o dofinansowanie projektu wraz z wymaganymi załącznikami 
+w Systemie IGA w terminie wskazanym w ust. 1. 
+4. Decydująca dla dochowania terminu określonego w ust. 1 jest data i godzina 
+zarejestrowania wniosku o dofinansowanie projektu w Systemie IGA (zgodnie 
+z datą i godziną określoną przez serwer Systemu IGA). Potwierdzeniem 
+złożenia (zarejestrowania) dokumentacji aplikacyjnej jest otrzymanie na adresy 
+poczty elektronicznej wskazane przez Wnioskodawcę podczas rejestracji Konta 
+w systemie oraz w formularzu przedkładanego wniosku, UPO wygenerowanego 
+przez System IGA. 
+5. Złożenie (rejestracja) wniosku o dofinansowanie projektu po terminie wskazanym 
+w ust. 1 nie będzie możliwe, o czym Wnioskodawca zostanie automatycznie 
+poinformowany za pośrednictwem Systemu IGA oraz poprzez komunikat wysłany 
+na adresy poczty elektronicznej wskazane podczas rejestracji Konta w Systemie 
+IGA oraz w formularzu przedkładanego wniosku. 
+6. W przypadku, gdy w czasie trwania naboru, o którym mowa w ust. 1, nastąpi 
+awaria Systemu IGA, która uniemożliwi złożenie wniosku o dofinansowanie 
+projektu w terminie ustalonym w ust. 1, IZ może przedłużyć termin, w którym 
+możliwe będzie składanie wniosków. Informacja o przedłużeniu terminu trwania 
+naboru, opublikowana będzie na stronie internetowej programu oraz na Portalu. 
+7. Z zastrzeżeniem ust. 2, przedłużenie terminu składania wniosków 
+o dofinansowanie projektów może nastąpić wyłącznie w przypadku, o którym 
+mowa w ust. 6. Zaistnienie innych, niż wskazane w ust. 6 okoliczności 
+występujących po stronie Wnioskodawcy, które utrudniają lub uniemożliwiają 
+złożenie wniosku o dofinansowanie projektu (np. awaria sprzętu, problemy 
+z podpisem elektronicznym, niekorzystne warunki pogodowe, przerwy w dostępie 
+do sieci Internet) nie stanowi przesłanki uzasadniającej przedłużenie terminu 
+składania wniosków. W przypadku zaistnienia okoliczności, o których mowa w 
+poprzednim zdaniu, Wnioskodawcy nie przysługują żadne roszczenia, ani środki 
+odwoławcze, w tym w szczególności wniosek o przywrócenie terminu do złożenia 
+wniosku. 
+8. W uzasadnionych przypadkach IZ zastrzega sobie możliwość zamknięcia naboru 
+wniosków o dofinansowanie projektów przed upływem terminu wskazanego w 
+ust. 1 Regulaminu – z zastrzeżeniem, że nabór trwa co najmniej 10 dni i nie 
+skończy się wcześniej niż po 40 dniach od dnia publikacji ogłoszenia o naborze. 
+O skróceniu terminu naboru wniosków IZ poinformuje nie później niż na 2 dni 
+kalendarzowe przed skróconym terminem zakończenia naboru. Przedmiotowa 
+informacja zostanie opublikowana na stronie internetowej programu oraz na 
+Portalu. 
+ 
+
+
+7 
+
+§6 
+Do okoliczności, które mogą wpływać na zmianę daty zakończenia naboru, należą 
+w szczególności: 
+1) zmiana kwoty przewidzianej na dofinansowanie projektów w ramach 
+postępowania, 
+2) zmiana zapisów Regulaminu lub zmiana zapisów załączników do Regulaminu, 
+3) zmiana kryteriów wyboru projektów – dopuszczalna wyłącznie w przypadku, gdy 
+w naborze nie złożono jeszcze wniosku o dofinansowanie projektu, 
+4) wystąpienie potwierdzonych błędów w funkcjonowaniu Systemu IGA, 
+uniemożliwiających złożenie wniosku o dofinansowanie projektu w terminie 
+wskazanym w §5 ust. 1 Regulaminu – przedmiotowa sytuacja nie wymaga 
+zmiany Regulaminu, 
+5) zmiana istotnych z punktu widzenia postępowania konkurencyjnego przepisów 
+prawa. 
+6) wystąpienie innych okoliczności, których nie można było przewidzieć w chwili 
+publikacji ogłoszenia Regulaminu. 
+
+2.2 Przedmiot naboru 
+§7 
+1. Projekty składane w ramach naboru muszą być zgodne z zapisami FEM 
+2021-2027 oraz SzOP FEM 2021-2027 w obrębie Priorytetu 2 Fundusze 
+Europejskie dla środowiska, Działanie 2.9 Gospodarowanie wodami, typ projektu 
+A Zwiększenie retencyjności zlewni, w tym: rozwój różnych form małej retencji. 
+2. Nabór obejmuje typ projektów A. Zwiększenie retencyjności zlewni, w tym: rozwój 
+różnych form małej retencji. 
+3. Zakres wsparcia może obejmować: 
+1) Budowę, przebudowę lub remont urządzeń wodnych służących do 
+retencjonowania wody jak również zapewnienia bezpieczeństwa 
+powodziowego i przeciwdziałania suszy w szczególności: zbiorniki 
+retencyjne, oczka wodne, jazy, zastawki, podpiętrzenia, wały 
+przeciwpowodziowe, poldery przeciwpowodziowe wraz z infrastrukturą 
+towarzyszącą. Dodatkowo w przypadku budowy, przebudowy lub remontu 
+jazów, tego typu inwestycje muszą zawierać przepławki dla ichtiofauny. 
+2) Realizację i odtwarzanie (obiektów) małej retencji na terenach leśnych, 
+górskich, rolniczych i zurbanizowanych, ze szczególnym wykorzystaniem 
+potencjału retencyjnego profilu glebowego. 
+ 
+
+
+8 
+
+4. W ramach Działania zastosowanie będą mieć następujące zasady: 
+1) w odniesieniu do projektów dotyczących małej retencji – wsparcie uzyskają 
+projekty realizowane przez podmioty inne niż podlegające/ nadzorowane 
+przez administrację centralną (warunek dostępowy), 
+2) w odniesieniu do projektów dotyczących urządzeń wodnych i infrastruktury 
+towarzyszącej służących zmniejszeniu skutków powodzi lub suszy - wsparcie 
+uzyskają projekty o charakterze regionalnym i lokalnym wynikające z potrzeb 
+jednostek samorządu terytorialnego (warunek dostępowy), 
+3) projekty z zakresu retencjonowania wody dotyczą zbiorników wodnych 
+o pojemności do 5 mln m3. 
+Warunek nie dotyczy projektów w zakresie urządzeń wodnych i infrastruktury 
+hydrotechnicznej służących zmniejszaniu skutków powodzi lub suszy. 
+4) główny nacisk będzie położony na wspieranie różnych form małej retencji w 
+ekosystemach oraz zlewniach, poprzez zwiększenie ich zdolności 
+retencyjnych. Stosowane mogą być rozwiązania techniczne i nietechniczne 
+zmierzające do poprawy bilansu wodnego zlewni. Preferowane będą 
+rozwiązania nietechniczne, które wykorzystują oparte na przyrodzie 
+naturalne mechanizmy ekosystemowe (nature based solutions). Przykłądami 
+rozwiązań z zakresu nature based solutions mogą być: stawy retencyjne, 
+niecki i rowy bioretencyjne oraz infiltracyjne. W zakresie działań w oparciu o 
+zasadę nature basef solution możemy wyróżnić odtwarzanie terenów 
+zalewowych i innych terenów podmokłych, odbudowę jezior i naturalnych 
+stawów, jak również stosowanie nawierzchni przepuszczalnych. 
+5) dopuszcza się możliwość realizacji prac remontowych w sytuacji gdy tego 
+typu prace stanowią niezbędny element projektu dla pełnej funkcjonalności 
+inwestycji podstawowej i nie stanowią elementu dominującego kosztowo2, 
+6) w odniesieniu do projektów z zakresu gospodarki wodnej beneficjent będzie 
+musiał zwrócić szczególną uwagę na dokumenty wymagane na etapie 
+przygotowywania inwestycji (np. raport oddziaływania na środowisko, operat 
+wodnoprawny, jak również uwzględnić lokalne uwarunkowania) i spełnienie 
+wymagań Ramowej Dyrektywy Wodnej. Przede wszystkim będzie to 
+dotyczyło przygotowanej w dokumentach oceny działań inwestycyjnych 
+wpływających na stan wód, z zastrzeżeniem, że projekty, które powodują 
+zastosowanie art. 4 ust. 7 Ramowej Dyrektywy Wodnej3, nie będą wspierane, 
+
+                                                           
+2 Tj. nie przekraczają 50% kosztów kwalifikowalnych projektu. 
+3 7. Państwa Członkowskie nie naruszają niniejszej dyrektywy, gdy: 
+ nieosiągnięcie dobrego stanu wód podziemnych, dobrego stanu ekologicznego lub, gdzie stosowne, 
+dobrego potencjału ekologicznego lub zapobieganie pogarszaniu się stanu części wód 
+powierzchniowych czy podziemnych jest wynikiem nowych zmian w charakterystyce fizycznej 
+części wód powierzchniowych lub zmian poziomu części wód podziemnych, lub 
+
+
+9 
+
+7) nie będą wspierane prace utrzymaniowe na rzekach ani regulacje rzek, 
+8) wsparciu nie będą podlegać projekty dotyczące renaturyzacji 
+przekształconych cieków wodnych i obszarów od wód zależnych tj.m.in.: 
+torfowiska, mokradła, zabagnienia, podmokłe łąki. 
+5. Zgodnie z dokumentem pn. „Instrumenty terytorialne w ramach programu 
+Fundusze Europejskie dla Małopolski 2021-2027” stanowiącym załącznik nr 1 do 
+Uchwały Nr 1984/24 ZWM z dnia 24 września 2024 r. w sprawie zmiany Uchwały 
+Nr 1455/21 ZWM z dnia 12 października 2021 r. w sprawie przyjęcia projektu 
+Programu Regionalnego Fundusze Europejskie dla Małopolski 2021-2027 
+Małopolska Przyszłości oraz przyjęcia dodatkowych dokumentów: „Wykluczone 
+ze wsparcia w konkursach ogólnych (poza mechanizmem ZIT/IIT), 
+ogłaszanych w obszarach analogicznych do tych, w których dany ZIT/IIT 
+OPK przewiduje realizację projektów, są wyłącznie podmioty będące 
+członkami tego Związku ZIT/ IIT OPK, ich jednostki organizacyjne 
+(posiadające lub nieposiadające osobowości prawnej) oraz podmioty z nimi 
+powiązane (w szczególności spółki z udziałem podmiotów będących 
+członkami ZIT/IIT OPK, instytucje kultury i jednostki ochrony zdrowia, dla 
+których organem założycielskim i/lub prowadzącym jest podmiot będący 
+członkiem ZIT/IIT OPK itp.), które są wyszczególnione na aktualnych listach 
+projektów (ujętych w strategii lub w porozumieniu) jako wnioskodawcy lub 
+liderzy projektów w danym (analogicznym) obszarze tematycznym. 
+W sytuacji złożenia wniosku o dofinansowanie projektu w konkursach 
+ogólnych, ogłoszonych przed zaopiniowaniem Strategii ZIT/IIT OPK, nie 
+będzie możliwe pozytywne zaopiniowanie strategii ZIT/IIT OPK zawierającej 
+projekty w/w podmiotów w analogicznych obszarach tematycznych.  
+Oznacza to, że wyłączenie działa na poziomie konkretnego wnioskodawcy. 
+Wykluczeniu w naborze w danym typie projektu podlegają (jako wnioskodawcy 
+lub partnerzy) podmioty będące członkami danego ZIT/IIT OPK, ich jednostki org. 
+oraz podmioty z nimi powiązane, wyszczególnione na aktualnych listach 
+projektów (ujętych w strategii lub w porozumieniu) jako wnioskodawcy lub liderzy 
+
+                                                           
+ niezapobieganie pogorszeniu się ze stanu bardzo dobrego do dobrego danej części wód 
+powierzchniowych jest wynikiem nowych zrównoważonych form działalności gospodarczej 
+człowieka 
+i spełnione są wszystkie następujące warunki: 
+a) zostały podjęte wszystkie praktyczne kroki, aby ograniczyć niekorzystny wpływ na stan części wód; 
+b) przyczyny tych modyfikacji lub zmian są szczegółowo określone i wyjaśnione w planie 
+gospodarowania wodami w dorzeczu wymaganym na mocy art. 13, a cele podlegają ocenie co 
+sześć lat; 
+c) przyczyny tych modyfikacji lub zmian stanowią nadrzędny interes społeczny i/lub korzyści dla 
+środowiska i dla społeczeństwa płynące z osiągnięcia celów wymienionych w ust. 1, są przeważone 
+przez wpływ korzyści wynikających z nowych modyfikacji czy zmian na ludzkie zdrowie, utrzymanie 
+ludzkiego bezpieczeństwa lub zrównoważony rozwój; oraz 
+d) korzystne cele, którym służą te modyfikacje lub zmiany części wód, nie mogą, z przyczyn 
+możliwości technicznych czy nieproporcjonalnych kosztów być osiągnięte innymi środkami, 
+stanowiącymi znacznie korzystniejszą opcję środowiskową. 
+
+
+10 
+
+w analogicznym typie wsparcia. Jedynie konkretny podmiot, posiadający projekt 
+w strategii ZIT/IIT OPK (będący jego wnioskodawcą/ liderem projektu 
+partnerskiego) nie będzie mógł złożyć wniosku o dofinansowanie naborze 
+ogólnym  w analogicznym typie wsparcia, ani być w nim partnerem. 
+Powyższe ograniczenie nie obejmuje partnerów projektów ujętych na 
+aktualnych listach projektów w strategii lub w porozumieniu terytorialnym 
+oraz projektów ujętych w Strategii Partnerstw CWD-Pilotaż (Związek Gmin 
+Krynicko-Popradzkich, Partnerstwo Miast i Gmin Powiatu Limanowskiego 
+oraz Stowarzyszenie Samorządów Powiatu Dąbrowskiego). 
+6. Kwalifikowalne są wyłącznie wydatki poniesione na projekt realizowany 
+na terenie województwa małopolskiego, które są niezbędne do realizacji jego 
+celów i które zostały faktycznie poniesione w związku z realizacją lub 
+przygotowaniem tego projektu. 
+7. Wymogi warunkujące uzyskanie dofinansowania w ramach Działania 2.9 
+Gospodarowanie wodami, typ projektu A Zwiększenie retencyjności zlewni, w 
+tym: rozwój różnych form małej retencji, wynikające z Załącznika nr 1 do 
+Regulaminu tj. kryteriów wyboru przyjętych przez KM FEM 2021-2027: 
+1) kwalifikowalność Wnioskodawcy i partnerów (jeśli dotyczy), 
+2) kwalifikowalność projektu, 
+3) kwalifikowalność wydatków, 
+4) poprawność przyjętych wskaźników, 
+5) dostarczenie wymaganych załączników i oświadczeń, w tym dotyczących 
+stanu przygotowania projektu do realizacji, 
+6) zgodność z przepisami dotyczącymi pomocy publicznej, 
+7) poprawność sporządzenia budżetu projektu, 
+8) wykonalność i trwałość finansowa projektu, 
+9) koncepcja realizacji projektu, 
+10) trwałość projektu, 
+11) zgodność projektu z Kartą Praw Podstawowych Unii Europejskiej oraz 
+Konwencją o Prawach Osób Niepełnosprawnych w zakresie odnoszącym 
+się do sposobu realizacji, zakresu projektu i wnioskodawcy.  
+Beneficjenci i partnerzy są zobligowani do informowania uczestników 
+projektów o możliwości zgłaszania do IZ podejrzenia o niezgodności 
+projektów lub działań beneficjenta z Kartą Praw Podstawowych Unii 
+Europejskiej lub Konwencją o Prawach Osób Niepełnosprawnych. 
+Szczegółowa procedura wnoszenia zgłoszeń w zakresie zgodności z 
+KPP/KPON oraz sposób ich rozpatrywania, zostały zamieszczone na stronie 
+internetowej programu FEM: 
+
+
+11 
+
+https://www.fundusze.malopolska.pl/poradnik/8312-zgloszenia-podejrzenia-
+niezgodnosci-z-karta-praw-podstawowych-unii-europejskiej-i 4, 
+12) zgodność z zasadą równości kobiet i mężczyzn, 
+13) pozytywny wpływ na zasadę równości szans i niedyskryminacji, 
+14) spełnienie zasady zrównoważonego rozwoju oraz zasady „nie czyń 
+poważnych szkód” (tzw. zasada DNSH)5, w szczególności uzasadnienie 
+spełnienia następujących celów środowiskowych: adaptacja do zmian 
+klimatu, zrównoważone wykorzystywanie i ochrona zasobów wodnych i 
+morskich, gospodarka o obiegu zamkniętym, w tym zapobieganie 
+powstawaniu odpadów i recykling, zapobieganie zanieczyszczeniom 
+powietrza, wody lub gleby i jego kontrola, ochrona i odbudowa 
+bioróżnorodności i ekosystemów,  
+15) odporność infrastruktury na zmiany klimatu (dotyczy wyłącznie projektów 
+obejmujących inwestycje w infrastrukturę o przewidywanej trwałości 
+wynoszącej co najmniej pięć lat), 
+16) projekty z zakresu retencjonowania wody w tym małej retencji (jeśli dotyczy) 
+– ocenie w ramach kryterium podlega, czy projekty z zakresu 
+retencjonowani wody dotyczą zbiorników o pojemności do 5 mln m3 wody.  
+Kryterium w zakresie dopuszczalnej pojemności do 5 mln3 nie dotyczy 
+działań dotyczących urządzeń wodnych i infrastruktury hydrotechnicznej 
+służących zmniejszeniu skutków powodzi lub suszy (w szczególności 
+zbiorniki suche, poldery przeciwpowodziowe, wały przeciwpowodziowe), 
+jeśli naturalne mechanizmy ekosystemowe są niewystarczające, a podjęcie 
+tych działań nie zwiększy zagrożenia w sytuacjach nadzwyczajnych. 
+
+                                                           
+4 Istnieje możliwość wniesienia zgłoszenia o podejrzeniu niezgodności z Kartą Praw Podstawowych 
+(KPP) lub z Konwencją o Prawach Osób Niepełnosprawnych (KPON): 
+- projektów (operacji) realizowanych przez IP lub działań IP związanych z wdrażaniem programu 
+- projektów (operacji) realizowanych przez IZ lub działań IZ związanych z wdrażaniem programu 
+- projektu (operacji) lub działań beneficjenta związanych z realizacją projektu. 
+
+ 
+
+Preferowaną formą zgłaszania do IZ podejrzenia o niezgodności projektów lub działań w ww. zakresie 
+z Kartą Praw Podstawowych Unii Europejskiej lub Konwencją o Prawach Osób Niepełnosprawnych 
+jest forma pisemna na adres mailowy: KPP_KPON@umwm.malopolska.pl. Dozwolona jest inna 
+forma, jeśli wynika to ze szczególnych potrzeb komunikacyjnych zgłaszającego. W zakresie badania 
+zgodności z zapisami KPP pomocny jest załącznik III do „Wytycznych dotyczących zapewnienia 
+poszanowania Karty praw podstawowych Unii Europejskiej przy wdrażaniu europejskich funduszy 
+strukturalnych i inwestycyjnych 
+5 W ramach potwierdzenia spełnienia zasady „nie czyń poważnych szkód” (tzw. zasada DNSH) należy 
+odnieść się w zakresie dotyczącym projektu do zapisów ekspertyzy wykonanej dla programu 
+Fundusze Europejskie dla Małopolski 2021-2027, stanowiącej załącznik nr 6 do Uchwały Nr 1827/22 
+ZWM z dnia 20 października 2022 r. w sprawie zmiany Uchwały Nr 1455/21 Zarządu Województwa 
+Małopolskiego z dnia 12 października 2021 r. sprawie przyjęcia projektu Programu Regionalnego 
+Fundusze Europejskie dla Małopolski 2021-2027 Małopolska Przyszłości oraz przyjęcia dodatkowych 
+dokumentów i zamieszczonych w niej ustaleń dla wyszczególnionych typów działań, adekwatnie do 
+zakresu projektu. Ocena spełniania zasady DNSH dostępna jest na stronie internetowej programu.  
+
+
+12 
+
+8. Wnioskodawca zobowiązany jest do prezentacji wskaźników realizacji projektu, 
+określonych w Załączniku nr 6 do Regulaminu. 
+9. Wyłączeniu z dofinansowania podlegają projekty fizycznie ukończone 
+zgodnie z zapisami §48 pkt 22 Regulaminu lub w pełni zrealizowane przed 
+złożeniem wniosku o dofinansowanie projektu, niezależnie od tego, 
+czy wszystkie powiązane płatności zostały dokonane przez Wnioskodawcę, 
+zgodnie z art. 63 ust. 6 Rozporządzenia ogólnego. 
+10. Zgodnie z art. 73 ust. 2 lit. h) Rozporządzenia ogólnego z dofinansowania 
+wykluczone są zarówno wydatki wspierające przeniesienie produkcji, jak również 
+działania, które stanowiły część operacji podlegającej przeniesieniu produkcji – 
+zgodnie z art. 66, a także takie, które stanowiłyby przeniesienie działalności 
+produkcyjnej – zgodnie z art. 65 ust. 1 lit. a). 
+11. W ramach FEM 2021-2027 możliwe jest dofinansowanie jedynie tych projektów, 
+względem których przeprowadzono postępowania środowiskowe w oparciu 
+o ustawę z dnia 3 października 2008 r. o udostępnianiu informacji o środowisku 
+i jego ochronie, udziale społeczeństwa w ochronie środowiska oraz o ocenach 
+oddziaływania na środowisko (w przypadku przedsięwzięć wymienionych 
+w rozporządzeniu OOŚ6), z zastrzeżeniem zapisów §25 Regulaminu oraz 
+projektów, które są zgodne z postanowieniami dyrektywy Parlamentu 
+Europejskiego i Rady 2011/92/UE, dyrektywy Rady 92/43/EWG, a także 
+Wytycznymi w sprawie działań naprawczych w odniesieniu do projektów 
+współfinansowanych w okresie programowania 2014 – 2020 oraz ubiegających 
+się o współfinansowanie w okresie 2021 – 2027 z Funduszy UE, dotkniętych 
+naruszeniem 2016/2046 w zakresie specustaw, dla których prowadzone jest 
+postępowanie w sprawie oceny oddziaływania na środowisko (dokument 
+Ares(2021)1432319 z 23.02.2021 r.). 
+§8 
+1. Projekt może być realizowany w okresie kwalifikowalności wydatków tj. co do 
+zasady do 31 grudnia 2029 r., z zastrzeżeniem ust. 2. 
+2. Termin realizacji projektu wynikać będzie z zaakceptowanego wniosku 
+o dofinansowanie projektu, przy czym maksymalny, planowany przez 
+Wnioskodawcę okres realizacji projektu, liczony od dnia podpisania Umowy / 
+podjęcia Uchwały / zawarcia Porozumienia, może wynosić do 24 miesięcy. 
+3. Szczegółowe informacje wspierające sposób wypełniania wniosku, w tym 
+dotyczące okresu realizacji projektu określone są w Wademekum. 
+ 
+
+                                                           
+6 Rozporządzenie Rady Ministrów z dnia 9 listopada 2010 r. w sprawie przedsięwzięć mogących 
+znacząco oddziaływać na środowisko. 
+
+
+13 
+
+2.3 Wnioskodawcy i Beneficjenci 
+§9 
+1. Z zastrzeżeniem ust. 3, o dofinansowanie projektu mogą ubiegać się podmioty, 
+które należą do niżej wymienionych typów Wnioskodawców/Beneficjentów - 
+szczegółowych: 
+1) Administracja rządowa, 
+2) Jednostki organizacyjne działające w imieniu jednostek samorządu 
+terytorialnego,  
+3) Jednostki Samorządu Terytorialnego, 
+4) Podmioty świadczące usługi publiczne w ramach realizacji obowiązków 
+własnych jednostek samorządu terytorialnego,  
+Wnioskodawcami mogącymi brać udział w naborach będą również związki i 
+stowarzyszenia JST. 
+Wnioskodawcą lub partnerem w ramach FEM 2021-2027 może być 
+wyłącznie podmiot posiadający osobowość prawną lub będący ułomną 
+osobą prawną, tj. podmiot nieposiadający osobowości prawnej, 
+lecz posiadający na mocy ustawy zdolność prawną. 
+2. W przypadku projektów partnerskich, partnerem może być wyłącznie podmiot 
+wymieniony w ust. 1. 
+Na ocenie finansowej zweryfikowane zostanie, czy partnerem wiodącym jest 
+podmiot o potencjale ekonomicznym zapewniającym prawidłową realizację 
+projektu partnerskiego zgodnie z art. 39 ust. 11 z dnia 28 kwietnia 2022 r. 
+o zasadach realizacji zadań finansowanych ze środków europejskich 
+w perspektywie finansowej 2021-2027. 
+3. O dofinansowanie nie mogą ubiegać się podmioty wykluczone, wpisane do 
+Rejestru podmiotów wykluczonych, o którym mowa w art. 210 ustawy z dnia 
+27 sierpnia 2009 r. o finansach publicznych oraz niespełniające warunków 
+kwalifikowalności, o których mowa w kryteriach wyboru projektu stanowiących 
+Załącznik nr 1 do Regulaminu. Zasada ta dotyczy również partnerów w projekcie. 
+4. Wsparcie dla kościelnych osób prawnych udzielane będzie pod warunkiem 
+zgodności z powszechnie obowiązującymi przepisami prawa regulującymi 
+stosunek państwa do kościołów i związków wyznaniowych. 
+§10 
+Wnioskodawcy uczestniczącemu w postępowaniu przysługuje prawo dostępu do 
+dokumentów związanych z oceną złożonego przez siebie wniosku o dofinansowanie 
+projektu, przy zachowaniu zasady anonimowości osób dokonujących oceny wniosku.  
+
+
+14 
+
+2.4 Dofinansowanie projektów 
+§11 
+1. Projekty wybrane do dofinansowania uzyskają dofinansowanie w ramach FEM 
+2021-2027 z zastrzeżeniem ust. 4. 
+2. Kwota alokacji przeznaczona na dofinansowanie wszystkich projektów w ramach 
+postępowania wynosi 3 943 350,00 euro.  
+3. Kwota alokacji, wynikająca z Harmonogramu naborów, do której mogą zostać 
+wybrane projekty wynosi 16 946 546,63 zł (słownie złotych: szesnaście milionów 
+dziewięćset czterdzieści sześć tysięcy pięćset czterdzieści sześć i 63/100), przy 
+czym dofinansowanie pochodzi wyłącznie ze środków EFRR. 
+4. Decyzję o przeznaczeniu oszczędności wygenerowanych w ramach 
+postępowania, po zakontraktowaniu wszystkich projektów z listy podstawowej 
+oraz listy rezerwowej (jeśli ta została utworzona), o której mowa 
+w §24 Regulaminu, podejmie Zarząd Województwa Małopolskiego. Środki te 
+mogą zostać przeznaczone na kolejny nabór w ramach niniejszego Działania lub 
+typu projektu, albo przesunięte na inne działania w ramach tego samego lub 
+innego Priorytetu. Zaistnienie powyższej sytuacji nie wymaga zmiany 
+Regulaminu. 
+5. Kwota, która może zostać zakontraktowana w ramach zawieranych umów 
+o dofinansowanie projektów w przedmiotowym postępowaniu uzależniona jest od 
+aktualnej w danym miesiącu wartości algorytmu wyrażającego w PLN miesięczny 
+limit środków możliwych do zakontraktowania7.  
+W przypadku braku dostępności środków istnieje ryzyko, iż środki przyznane 
+na mocy Umowy/Uchwały/Porozumienia nie zostaną wypłacone Beneficjentowi w 
+całości lub w części lub zostaną wypłacone z opóźnieniem. Beneficjent przyjmuje 
+do wiadomości to ryzyko i akceptuje je. 
+6. IZ przed rozstrzygnięciem postępowania może zwiększyć kwotę środków 
+przeznaczonych na dofinansowanie projektów. Zaistnienie przedmiotowej 
+sytuacji wymaga zmiany Regulaminu.  
+7. IZ przed rozstrzygnięciem postępowania może zmniejszyć kwotę środków 
+przeznaczonych na dofinansowanie projektów w naborze. Przedmiotowa 
+sytuacja może zaistnieć w przypadku, gdy wnioski o dofinansowanie projektów 
+złożone w ramach przedmiotowego naboru, nie wyczerpią całej alokacji 
+przeznaczonej na ten nabór. Wówczas, Zarząd Województwa Małopolskiego 
+                                                           
+7 Kwota w EUR przeznaczona na dane działanie określona w załączniku nr 1 do Uchwały Nr 452/23 ZWM z dnia 23 
+marca 2023 r. w sprawie przyjęcia Szczegółowego Opisu Priorytetów Programu Fundusze Europejskie dla 
+Małopolski na lata 2021-2027 (z późn. zm.) – w części przypisanej na dany nabór (jeśli dotyczy) * kurs księgowy 
+publikowany na stronie Europejskiego Banku Centralnego (EBC): 
+http://www.ecb.int/stats/exchange/eurofxref/html/eurofxref-graph-pln.en.html z przedostatniego dnia kwotowania 
+środków w  EBC w miesiącu poprzedzającym miesiąc, dla którego dokonuje się wyliczenia limitu alokacji środków 
+wspólnotowych. 
+
+
+15 
+
+podejmie decyzję o przeznaczeniu pozostałej kwoty alokacji, tj. alokacji 
+pomniejszonej o wartość łącznego wnioskowanego dofinansowania projektów 
+złożonych w tym postępowaniu. Zaistnienie przedmiotowej sytuacji wymaga 
+zmiany Regulaminu, polegającej na zmniejszeniu kwoty środków 
+przeznaczonych na dofinansowanie projektów w niniejszym naborze. 
+8. IZ po rozstrzygnięciu postępowania, może wybrać do dofinansowania projekty 
+z listy rezerwowej (jeśli ta została utworzona), o której mowa w §24 ust. 1 
+Regulaminu oraz projekty, które uzyskały pozytywne rozstrzygnięcia w ramach 
+procedury odwoławczej, pod warunkiem dostępności kwoty przeznaczonej 
+na dofinansowanie projektów w ramach działania. Zaistnienie przedmiotowej 
+sytuacji nie wymaga zmiany Regulaminu. 
+§12 
+1. Maksymalny całkowity poziom dofinansowania wydatków kwalifikowalnych 
+projektu wynosi 85%, z zastrzeżeniem projektów objętych pomocą publiczną.  
+Szczegółowe informacje w zakresie pomocy publicznej i pomocy de minimis 
+omówione zostały w Wademekum. 
+2. Minimalny wkład własny Wnioskodawcy wynosi 15% wydatków kwalifikowanych 
+projektu, z zastrzeżeniem projektów objętych pomocą publiczną. 
+3. Projekty objęte regułami pomocy publicznej nie mogą korzystać z dofinansowania 
+ze środków budżetu państwa. 
+4. Szczegółowe informacje związane z wymaganiami finansowymi dotyczącymi 
+projektu, w tym na temat sposobu kalkulacji budżetu oraz zasad sporządzania 
+analizy finansowej, zostały określone w Wademekum oraz w Załączniku nr 3 
+do Regulaminu. 
+5. Zastrzega się, że Umowa / Uchwała / Porozumienie może zawierać odstępstwa 
+od maksymalnego dopuszczalnego poziomu dofinansowania projektu lub 
+od maksymalnej dopuszczalnej kwoty dofinansowania projektu. 
+§13 
+1. Szczegółowe informacje na temat sposobu finansowania projektów, 
+przekazywania środków finansowych oraz rozliczenia poniesionych wydatków, 
+określa Umowa o dofinansowanie Projektu, której wzór stanowi Załącznik nr 4a 
+do Regulaminu, z zastrzeżeniem §30 ust. 1-3 Regulaminu. 
+2. W przypadku projektów, których Beneficjentem jest Województwo Małopolskie, 
+szczegółowe zasady określające reguły realizacji projektu oraz prawa i obowiązki 
+Beneficjenta, zawiera Uchwała ZWM w sprawie podjęcia decyzji 
+o dofinansowaniu Projektu, dla którego Beneficjentem jest Województwo 
+Małopolskie wraz z załącznikami, której wzór stanowi Załącznik nr 4b do 
+Regulaminu, z zastrzeżeniem §30 ust. 1-3 Regulaminu. 
+
+
+16 
+
+3. W przypadku projektów, których Beneficjentem jest państwowa jednostka 
+budżetowa, szczegółowe zasady określające reguły realizacji projektu oraz 
+prawa i obowiązki Beneficjenta, zawiera Porozumienie o dofinasowaniu projektu, 
+którego wzór stanowi Załącznik nr 4c do Regulaminu, z zastrzeżeniem §30 ust. 
+1-3 Regulaminu. 
+4. Z poniesionych wydatków Beneficjent rozlicza się zgodnie z zasadami ujętymi 
+w zawartej Umowie / podjętej Uchwale / zawartym Porozumieniu. 
+
+2.5 Kwalifikowalność wydatków 
+§14 
+1. Wydatki wskazane we wniosku o dofinansowanie projektu oraz poniesione przez 
+Beneficjenta i partnerów realizujących projekt są oceniane przez IZ pod kątem 
+kwalifikowalności zgodnie z zasadami określonymi w Wytycznych dotyczących 
+kwalifikowalności wydatków na lata 2021-2027, SzOP FEM 2021-2027 
+publikowanymi na stronie internetowej programu oraz zgodnie z Umową / 
+Uchwałą / Porozumieniem i właściwymi przepisami prawa wspólnotowego 
+i krajowego, w tym przepisami dotyczącymi zasad udzielania pomocy de minimis 
+oraz/ lub pomocy publicznej, obowiązującymi w momencie udzielania wsparcia, 
+w przypadku projektów objętych tą pomocą. 
+2. Co do zasady, zgodnie z Wytycznymi dotyczących kwalifikowalności wydatków 
+na lata 2021-2027 początkiem okresu kwalifikowania wydatków jest 1 stycznia 
+2021 r., natomiast końcową datą jest 31 grudnia 2029 r., z zastrzeżeniem 
+projektów objętych pomocą publiczną.  
+Aby wydatki zostały uznane za kwalifikowalne muszą zostać poniesione 
+w terminie realizacji projektu wynikającym z wniosku o dofinansowanie projektu 
+oraz zgodnie z obowiązującym prawem, w szczególności z ustawą z dnia 
+27 sierpnia 2009 r. o finansach publicznych. 
+3. Niespełnienie wymogów, określonych w ust. 1 oraz ust. 2, skutkować będzie 
+odmową uznania wydatków za kwalifikowalne. 
+4. Katalog specyficznych wydatków kwalifikowalnych i niekwalifikowalnych dla 
+Działania 2.9 Gospodarowanie wodami, typ projektu A, obejmuje w 
+szczególności: 
+1) Specyficzne wydatki niekwalifikowalne: 
+ wypełnienie formularza wniosku o dofinansowanie, 
+ prace utrzymaniowe na rzekach oraz regulacje rzek, 
+ renaturyzacja przekształconych cieków wodnych i obszarów od wód 
+zależnych tj. m.in.: torfowiska, mokradła, zabagnienia, podmokłe łąki, 
+
+
+17 
+
+ projekty z zakresu retencjonowania wody dotyczą zbiorników wodnych o 
+pojemności powyżej 5 mln m3 (warunek nie dotyczy projektów w zakresie 
+urządzeń wodnych i infrastruktury hydrotechnicznej służących zmniejszaniu 
+skutków powodzi lub suszy), 
+ projekty, które powodują zastosowanie art. 4 ust. 7 Ramowej Dyrektywy 
+Wodnej, 
+ oznaczenie i wyposażenie miejsca, jak również zapewnienie drogi 
+dojazdowej do punktu/ stanowiska czerpania wody nie podlega 
+dofinansowaniu. 
+5. W ramach projektu przewiduje się rozliczanie projektu z wykorzystaniem 
+uproszczonych metod rozliczania wydatków, w postaci stawki ryczałtowej, 
+o której mowa w art. 54 lit. a Rozporządzenia ogólnego. 
+6. W kosztach kwalifikowalnych projektu dopuszcza się uwzględnienie kosztów 
+pośrednich w wysokości równej 2% bezpośrednich wydatków 
+kwalifikowalnych projektu. Koszty pośrednie są rozliczane stawką ryczałtową, 
+o której mowa w ust. 5. Koszty pośrednie mogą obejmować również wydatki 
+związane z obowiązkowymi działaniami informacyjno-promocyjnymi projektu. 
+7. Zgodnie z art. 53 ust. 2 Rozporządzenia ogólnego, projekt finansowany 
+ze środków EFRR, EFS+ lub FST, którego łączny koszt wyrażony w PLN 
+nie przekracza równowartości 200 tys. EUR8 w dniu zawarcia Umowy/ podjęcia 
+Uchwały /zawarcia Porozumienia, rozliczany jest obligatoryjnie za pomocą 
+uproszczonych metod rozliczania wydatków. 
+W przypadku tych projektów konieczne jest uwzględnienie kosztów 
+pośrednich, w wysokości wskazanej w ust. 6.  
+Obowiązek stosowania uproszczonych metod rozliczania wydatków, o którym 
+mowa w art. 53 ust. 2 Rozporządzenia ogólnego, nie dotyczy projektów 
+otrzymujących wsparcie w ramach pomocy państwa, które nie stanowi pomocy 
+de minimis, w tym projektów łączących pomoc państwa i pomoc de minimis. 
+W przypadku projektów, który łączny koszt wyrażony w PLN przekracza 200 tys. 
+EUR uwzględnienie kosztów pośrednich w projekcie jest dobrowolne. 
+8. Szczegółowe zasady stosowania uproszczonych metod rozliczania wydatków 
+zawarte zostały w Wademekum oraz Wytycznych Komisji Europejskiej 
+dotyczących form kosztów uproszczonych9. 
+9. Wyboru sposobu rozliczania wydatków dokonuje się do momentu zawarcia 
+Umowy / podjęcia Uchwały / zawarcia Porozumienia, z zastrzeżeniem ust. 7. 
+
+                                                           
+8 Do przeliczenia łącznego kosztu projektu stosuje się miesięczny obrachunkowy kurs wymiany waluty 
+stosowany przez KE, aktualny na dzień ogłoszenia naboru. 
+9 Wytyczne dostępne są na stronie Komisji Europejskiej: https://eur-lex.europa.eu/legal-
+content/PL/TXT/HTML/?uri=OJ:C:2021:200:FULL&from=EN  
+
+
+18 
+
+10. Warunki rozliczania kosztów uproszczoną metodą rozliczania wydatków określa 
+Umowa/ Uchwała/ Porozumienie. 
+11. Wnioskodawca i/ lub partnerzy przygotowują i udzielają zamówień w ramach 
+projektu odpowiednio, zgodnie z ustawą Prawo Zamówień Publicznych 
+lub zasadą konkurencyjności, określoną w Wytycznych dotyczących 
+kwalifikowalności wydatków na lata 2021-2027. Ponadto, w przypadku zamówień 
+realizowanych zgodnie z zasadą konkurencyjności zobowiązani są do ich 
+przeprowadzenia w sposób zapewniający zachowanie uczciwej konkurencji oraz 
+równe traktowanie wykonawców, a także do działania w sposób przejrzysty i 
+proporcjonalny. 
+12. W przypadku zamówień realizowanych zgodnie z zasadą konkurencyjności, 
+Wnioskodawca i/ lub partnerzy upubliczniają zapytanie ofertowe w Bazie 
+Konkurencyjności, w sposób określony w Wytycznych dotyczących 
+kwalifikowalności wydatków na lata 2021-2027.  
+
+ 
+
+§15 
+IZ – na każdym etapie oceny oraz realizacji projektu – zastrzega sobie prawo 
+do zobowiązania Wnioskodawcy do: 
+1) obniżenia wydatków kwalifikowalnych określonych we wniosku o dofinansowanie 
+projektu, w przypadku stwierdzenia, iż koszty zaplanowane we wniosku 
+odbiegają od cen rynkowych lub są nieadekwatne do zaplanowanych efektów. 
+2) przesunięcia do kosztów niekwalifikowalnych lub usunięcia z kosztów projektu 
+wydatków, które w ocenie IZ nie mogą być uznane za kwalifikowalne. 
+3) uznania wydatków za niekwalifikowalne jeśli zaplanowane koszty nie zostały 
+poniesione lub zostały poniesione niezgodnie z §14 ust. 1 i ust. 2 Regulaminu. 
+
+2.6 Pomoc de minimis i pomoc publiczna 
+§16 
+1. W przypadku gdy dofinansowanie spełniać będzie przesłanki pomocy publicznej 
+określone w art. 107 ust. 1 TFUE wówczas jego przyznanie możliwe będzie 
+wyłącznie w oparciu o właściwe przepisy prawa krajowego i wspólnotowego 
+z zastrzeżeniem spełnienia warunków w nich zawartych. 
+2. Weryfikacja spełnienia przesłanek pomocy publicznej określonych w art. 107 ust. 
+1 TFUE dokonywana jest na podstawie wymaganych przepisami prawa10 
+informacji, w tym na podstawie przedstawionych zapisów wniosku 
+                                                           
+10 w tym w szczególności Rozporządzeniem Rady Ministrów z dnia 29 marca 2010 r. w sprawie zakresu 
+informacji przedstawianych przez podmiot ubiegający się o pomoc de minimis oraz Rozporządzeniem 
+Rady Ministrów z dnia 29 marca 2010 r. w sprawie zakresu informacji przedstawianych przez podmiot 
+ubiegający się o pomoc inną niż pomoc de minimis lub pomoc de minimis w rolnictwie lub rybołówstwie 
+
+
+19 
+
+o dofinansowanie projektu oraz załączników. Jednocześnie IZ zastrzega, 
+że w celu potwierdzenia prawidłowości przeprowadzonej weryfikacji IZ może 
+zwracać się o wydanie opinii/interpretacji do właściwych organów (m.in. KE, 
+UOKiK, MFIPR). Pozyskane opinie/interpretacje IZ może wykorzystywać 
+w ocenie spełnienia przesłanek pomocy publicznej w innych projektach 
+o podobnym stanie faktycznym i prawnym.    
+3. Na etapie oceny projektu dokonywana jest weryfikacja możliwości przyznania 
+pomocy de minimis lub/oraz pomocy publicznej. Jednocześnie ostateczne 
+warunki jej przyznania, o których mowa w §25 ust. 5 Regulaminu, w tym 
+wysokość dostępnego limitu pomocy de minimis weryfikowane będą na dzień 
+jej przyznania tj. na dzień podpisania Umowy / podjęcia Uchwały / zawarcia 
+Porozumienia.  
+4. W zakresie dotyczącym spełnienia warunków przyznania pomocy de minimis 
+lub/oraz pomocy publicznej na dzień jej/ich przyznania (tj. na dzień podpisania 
+Umowy / podjęcia Uchwały / zawarcia Porozumienia) IZ zastrzega sobie 
+możliwość uzyskania dodatkowej opinii/ekspertyzy na zasadach określonych w 
+§23 ust.1 Regulaminu lub/oraz dokonanie ponownej oceny projektu na podstawie 
+zapisów zawartych w §23 ust. 2 Regulaminu. 
+5. W przypadku uzyskania opinii/ekspertyzy wskazującej na brak możliwości 
+przyznania pomocy de minimis lub/oraz pomocy publicznej konieczne jest 
+dokonanie ponownej oceny projektu na warunkach określonych w §23 ust. 2 
+Regulaminu.  
+6. W przypadku projektów objętych pomocą publiczną z tzw. efektem zachęty11, 
+które uzyskały częściowe dofinansowanie, zgodnie z §24 ust. 11 Regulaminu, 
+brak jest możliwości zwiększenia wartości przyznanej pomocy po podpisaniu 
+Umowy / podjęciu Uchwały/ zawarciu Porozumienia.  
+7. W przypadku projektów, których dofinansowanie wymaga notyfikacji pomocy 
+publicznej do KE i uzyskania Decyzji o akceptacji pomocy indywidualnej, 
+podpisanie Umowy/ podjęcie Uchwały / zawarcie Porozumienia może nastąpić 
+dopiero po uzyskaniu pozytywnej Decyzji KE. W przypadku negatywnej Decyzji 
+KE konieczne jest dokonanie ponownej oceny projektu na warunkach 
+określonych w §23 ust. 2 Regulaminu. 
+8. Niespełnienie warunków narzuconych regułami pomocy de minimis oraz/ lub 
+pomocy publicznej skutkować będzie odmową uznania wydatków za 
+kwalifikowalne lub negatywną oceną projektu, lub odmową podpisania Umowy/ 
+podjęcia Uchwały / zawarcia Porozumienia. 
+9. Wszelkie wymogi w zakresie ubiegania się o pomoc publiczną/pomoc de minimis 
+są tożsame dla wszystkich podmiotów ubiegających się o pomoc publicznej. W 
+związku z tym zarówno beneficjent jak i partnerzy zobowiązani są do 
+
+                                                           
+11 Zgodnie z warunkami określonymi w art. 6 ust.1 Rozporządzenia KE 651/2014 
+
+
+20 
+
+uwzględniania informacji/dokumentów potwierdzających możliwości ubiegania 
+się o pomoc indywidualnie dla każdego z nich. 
+10. Z uwagi na przepisy Ustawy pomoc publiczna może zostać udzielona partnerom 
+projektu jedynie w sytuacji gdy partnerzy zostali zdefiniowanie ex ante i wskazani 
+we wniosku o dofinansowanie.  
+11. Ponadto z uwagi na zapisy Ustawy nie ma formalnych możliwości udzielania 
+pomocy publicznej na drugim poziomie, tj. przez beneficjenta/ partnera na rzecz 
+operatora, jak również na trzecim poziomie przez operatora na rzecz 
+użytkowników końcowych. 
+12. Jedynie w odniesieniu do pomocy de minimis dopuszcza się sytuację, kiedy 
+pomoc ta będzie mogła zostać przetransferowana na kolejny poziom12. 
+Jednocześnie w projektach grantowych takie przekazanie pomocy de minimis 
+będzie możliwe jedynie przez Beneficjenta projektu. 
+13. W przypadku gdy z powstałej w wyniku realizacji projektu infrastruktury będzie 
+korzystała jednostka organizacyjna JST lub związku JST, należy wykazać ją jako 
+beneficjenta pomocy publicznej w celu prawidłowego sprawozdania pomocy 
+publicznej oraz pomocy de minimis. 
+14. Zapis ust. 13 ma zastosowanie jedynie do sytuacji, w której: 
+a) Wnioskodawcą projektu jest JST lub jej związek 
+b) zgodnie z założeniami projektu podmiotem korzystającym z infrastruktury 
+wspartej ze środków FEM będzie jednostka organizacyjna JST lub związku 
+JST realizująca zadania statutowe; 
+c) dana jednostka organizacyjna jest jednostką, która została utworzona przez 
+JST lub związek JST, jak też taka w której JST lub związek JST ma 100% 
+udziałów i w pełni sprawuje kontrolę nad jednostką JST lub  związek jest 
+wyłącznym właścicielem danej jednostki organizacyjnej i w pełni sprawuje 
+kontrolę nad daną jednostką, 
+d) w przypadku jednostek organizacyjnych posiadających osobowość prawną 
+musi nastąpić przekazanie prawa własności infrastruktury lub przekazanie 
+infrastruktury w trwały zarząd. 
+15. W przypadku jednostek organizacyjnych nieposiadających osobowości prawnej 
+spełniających łącznie warunki, o których mowa w ust. 14 lit a-c lub w przypadku  
+jednostek organizacyjnych posiadających osobowość prawną spełniających 
+łącznie warunki, o którym mowa  w ust. 14 lit a-d przyjmuje się, że 
+Wnioskodawcą projektu jest JST (lub ich związek). Jednocześnie we wniosku 
+oraz umowie o dofinansowanie dodatkowo wykazana zostanie jednostka 
+organizacyjna, jako beneficjent pomocy. 
+                                                           
+12 Możliwość udzielania pomocy de minimis przez partnerów projektów partnerskich korzystających ze 
+wsparcia EFRR lub FST dotyczy incydentalnych przypadków, np. udostępnienia infrastruktury 
+wytworzonej w ramach projektu innym podmiotom. 
+
+
+21 
+
+16. Przekazanie infrastruktury wytworzonej w wyniku realizacji projektu jednostkom 
+organizacyjnym JST (lub związku JST) posiadającym osobowość prawną w innej 
+formie niż wskazana w ust. 14 lit. d) (przeniesienie własności lub trwały zarząd), 
+tj. np. w formie umowy dzierżawy lub użyczenia, wymaga wykazania przez 
+Wnioskodawcę, że przy przekazaniu infrastruktury nie wystąpi pomoc publiczna.  
+17. W sytuacji, w której korzystającym ze wsparcia jest urząd gminy/ miasta/ 
+marszałkowski/ starostwo wówczas to ta jednostka powinna zostać wykazana 
+jako beneficjent pomocy. 
+18. Weryfikacja możliwości udzielenia pomocy w tym dopuszczalnej wysokości 
+pomocy (np. limit dostępnej pomocy de minimis) w ramach projektu 
+weryfikowana będzie pod kątem możliwości przyznania jej beneficjentowi 
+pomocy w rozumieniu ust. 13-15. 
+§17 
+1. W przypadku ubiegania się przez Wnioskodawcę o przyznanie pomocy 
+de minimis właściwymi przepisami prawa, w rozumieniu §16 ust. 1 Regulaminu 
+jest Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 17 kwietnia 
+2024  r. w sprawie udzielania pomocy de minimis w ramach regionalnych 
+programów na lata 2021-2027.  
+2. Zgodnie z § 12 Rozporządzenia wskazanego w ust. 1 pomoc de minimis na 
+podstawie tegoż Rozporządzenia może być udzielana nie dłużej niż do dnia 31 
+grudnia 2029 r. 
+3. Na podstawie zapisów Rozporządzenia wskazanego w ust. 1 przyznanie pomocy 
+de minimis będzie możliwe w przypadku gdy na dzień podpisania Umowy / 
+podjęcia Uchwały / zawarcia Porozumienia jej wartość brutto łącznie z wartością 
+innej pomocy de minimis otrzymanej przez beneficjenta (lub partnera), 
+rozumianego jako jedno przedsiębiorstwo13, w okresie 3 lat14 nie przekroczy 
+kwoty stanowiącej równowartość 300 000,00 euro15.  
+4. W przypadku stwierdzenia na etapie podpisania Umowy / podjęcia Uchwały/ 
+zawarcia Porozumienia braku możliwości przyznania pomocy de minimis 
+w  wysokości określonej we wniosku o dofinansowanie projektu, pomoc de 
+minimis może zostać przyznana jedynie do wysokości dostępnego dla 
+Wnioskodawcy limitu, o którym mowa w ust. 3.  
+
+                                                           
+13 zgodnie z definicją zawartą w art. 2 ust. 2 Rozporządzenia Komisji (UE) nr 2023/2831 z dnia 13 grudnia 2023 r. w 
+sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis 
+
+ 
+
+14 Okres trzech 3 lat brany pod uwagę do celów niniejszego rozporządzenia należy oceniać w sposób 
+ciągły. Dla każdego przypadku przyznania nowej pomocy de minimis należy uwzględnić całkowitą 
+kwotę pomocy de minimis przyznaną w ciągu minionych trzech lat. 
+15 Zgodnie z art. 11 ust. 3 Ustawy  z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy 
+publicznej równowartość pomocy w euro ustala się według kursu średniego walut obcych, ogłaszanego przez 
+Narodowy Bank Polski, obowiązującego w dniu udzielenia pomocy. 
+
+
+22 
+
+5. Ubiegając się o przyznanie pomocy publicznej w ramach Działania 2.9 typ A, 
+właściwymi przepisami prawa w rozumieniu §16 ust. 1 Regulaminu jest: 
+1) Rozporządzenie Ministra Funduszy i Polityki Regionalnej z dnia 11 
+października 2022 r. w sprawie udzielania regionalnej pomocy inwestycyjnej 
+w ramach programów regionalnych na lata 2021–2027 (Dz. U. z 2022 r. 
+poz. 2161, z późn. zm.). 
+6. Pomoc publiczna wynikająca z powyższego Rozporządzenia może zostać 
+przyznana na zakres i w wysokości w nim określonym.  
+7. W przypadku projektów, w których dofinansowanie ma zostać przyznane 
+w oparciu o pomoc z tzw. efektem zachęty zgodnie z zapisami art. 6 ust. 2 
+Rozporządzenia Komisji (UE) nr 651/2014 złożenie wniosku o dofinansowanie 
+projektu musi nastąpić przed rozpoczęciem prac nad projektem w rozumieniu art. 
+2 pkt. 23 Rozporządzenia Komisji (UE) nr 651/2014. Szczegółowe informacje w 
+zakresie efektu zachęty opisane zostały w Wademekum.  
+
+2.7 Zgodność z wytycznymi specyficznymi 
+§18 
+1. IZ realizująca zadania związane z oceną oraz rozliczeniem i kontrolą projektów 
+współfinansowanych w ramach FEM 2021-2027, działa zgodnie z Umową / 
+Uchwałą / Porozumieniem , SzOP FEM 2021-2027 oraz wytycznymi 
+publikowanymi na Portalu. 
+2. Wnioskodawca realizujący projekt inwestycyjny, nie będący projektem 
+hybrydowym, w pierwszej kolejności zobowiązany jest do stosowania zapisów 
+Wademekum w części poświęconej analizie finansowej. 
+ 
+
+
+23 
+
+ROZDZIAŁ 3 PROCEDURA OCENY PROJEKTÓW 
+
+3.1 Ocena wniosku o dofinansowanie projektu 
+§19 
+1. Procedura oceny projektów określona jest w Regulaminie prac Komisji Oceny 
+Projektów w ramach programu Fundusze Europejskie dla Małopolski  
+2021-2027.  
+2. IZ zapewnia, że ocena projektów odbywa się w sposób przejrzysty, rzetelny 
+i bezstronny. Przed przystąpieniem do oceny zarówno pracownicy IZ, 
+jak i eksperci składają / zatwierdzają deklarację dotyczącą bezstronności 
+i poufności w zakresie złożonych projektów. 
+3. Działając w oparciu o art. 54 ust. 1 Ustawy, KOP dokonuje oceny spełnienia 
+kryteriów wyboru projektów, które stanowią Załącznik nr 1 do Regulaminu.  
+4. W skład KOP wchodzą: 
+a) wszyscy pracownicy IZ z Zespołu ds. Wyboru Projektów FEM, a także inni 
+wyznaczeni przez Przewodniczącego KOP pracownicy IZ, którzy realizują 
+zadania z zakresu oceny formalnej, finansowej i merytorycznej,  
+b) eksperci – w zakresie oceny finansowej i merytorycznej, 
+c) Przewodniczący KOP; 
+d) Sekretarz KOP. 
+Wyłonienie składów/osób oceniających dokonywane jest w drodze wyznaczenia 
+pracowników IZ i przydzielenia im projektów do oceny, a w przypadku ekspertów 
+co do zasady poprzez losowanie poszczególnych par/osób oceniających wnioski 
+lub wyznaczenie im wniosków do oceny.  
+Ocena projektu dokonywana jest przez członków KOP w odniesieniu do każdego 
+etapu oceny, zgodnie z ich zakresem czynności lub przypisaną dziedziną. 
+5. Oceny projektów w zakresie spełnienia kryteriów przez dany projekt dokonuje się 
+na podstawie informacji zawartych we wniosku o dofinansowanie projektu 
+i przedstawionych załączników. Nie wyklucza to wykorzystania w ocenie 
+spełnienia kryteriów wyjaśnień/informacji udzielonych przez Wnioskodawcę, 
+przekazanych przez niego lub pozyskanych w inny sposób, które dotyczą 
+Wnioskodawcy lub projektu . Wykorzystanie powyższych informacji wymaga 
+wezwania Wnioskodawcy do wyjaśnień lub ewentualnego uzupełnienia wniosku 
+w tym zakresie. 
+6. Ocena wniosków o dofinansowanie złożonych w ramach naboru, przebiega 
+w trzech etapach i trwa do 120 dni kalendarzowych: 
+1) etap oceny formalnej – rozpoczyna się pierwszego dnia następującego 
+po dniu zamknięciu naboru i kończy się zatwierdzeniem wyniku oceny 
+
+
+24 
+
+formalnej dla wszystkich wniosków o dofinansowanie projektów, złożonych w 
+naborze, 
+2) etap oceny finansowej – rozpoczyna się pierwszego dnia po zakończeniu 
+etapu oceny formalnej dla wszystkich wniosków podlegających ocenie 
+w ramach danego etapu i kończy się zatwierdzeniem wyniku oceny 
+finansowej dla wszystkich wniosków o dofinansowanie projektów, 
+z zastrzeżeniem ust. 8, 
+3) etap oceny merytorycznej – rozpoczyna się pierwszego dnia po zakończeniu 
+etapu oceny finansowej dla wszystkich wniosków podlegających ocenie w 
+ramach danego etapu i kończy się zatwierdzeniem wyniku oceny 
+merytorycznej dla wszystkich wniosków o dofinansowanie projektów, z 
+zastrzeżeniem ust. 8. 
+7. Niezakwalifikowanie projektu do kolejnego etapu oceny może wynikać wyłącznie 
+z zatwierdzenia wyniku oceny stanowiącego negatywną ocenę projektu. 
+8. IZ dla danego postępowania może podjąć decyzję o jednoczesnym prowadzeniu 
+oceny na etapie oceny formalnej i oceny finansowej lub na etapie oceny 
+finansowej i oceny merytorycznej.  
+9. IZ może przedłużyć wskazany w ust. 6 termin oceny wniosku o dofinansowanie 
+projektu. Nie wymaga to zmiany Regulaminu. 
+10. Informacja o przedłużeniu terminu oceny, publikowana jest na stronie 
+internetowej programu oraz na Portalu. 
+11. Zgodnie z §1 ust. 8 pkt 1 lit. b) Regulaminu KOP, w celu dochowania 
+terminowości oceny, dopuszcza się możliwość sukcesywnego przekazywania 
+wniosków o dofinansowanie projektów ocenionych pozytywnie do kolejnych 
+etapów oceny, mimo braku zakończenia oceny wszystkich projektów w ramach 
+danego etapu oceny. 
+12. Ocena projektów przeprowadzana jest w systemie informatycznym IGA. 
+ 
+
+
+25 
+
+§20 
+
+1. Ocena formalna: 
+1) Ocena formalna rozpoczyna proces oceny i dokonywana jest dla wszystkich 
+projektów złożonych w ramach naboru dla danego postępowania. 
+2) Ocena formalna dokonywana jest w systemie logicznym (TAK/NIE/NIE 
+DOTYCZY). 
+3) Ocena formalna przeprowadzana jest wyłącznie przez pracowników IZ. 
+4) Ocena formalna przeprowadzana jest co do zasady przez jedną osobę, 
+jednak w przypadku m.in. projektów o znacznym stopniu skomplikowania lub 
+znaczącej kwocie wnioskowanego dofinansowania dopuszcza się możliwość 
+dokonywania oceny spełnienia kryteriów formalnych przez dwoje 
+oceniających.  
+2. Ocena finansowa: 
+1) Ocenie finansowej podlega: 
+a) wniosek o dofinansowanie projektu, który z wynikiem pozytywnym został 
+oceniony na etapie oceny formalnej lub 
+b) każdy wniosek o dofinansowanie projektu, dla którego ocena finansowa 
+prowadzona jest równocześnie z oceną formalną. 
+2) Ocena finansowa dokonywana jest w systemie logicznym (TAK/NIE/NIE 
+DOTYCZY). 
+3) Ocena finansowa przeprowadzana jest co do zasady przez jedną osobę, 
+jednak w przypadku m.in. projektów o znacznym stopniu skomplikowania lub 
+znaczącej kwocie wnioskowanego dofinansowania dopuszcza się możliwość 
+dokonywania oceny spełnienia kryteriów finansowych przez dwoje 
+oceniających.  
+4) Ocena dokonywana jest przez: 
+a) pracowników IZ, 
+b) lub/i ekspertów wpisanych do Wykazu ekspertów FEM lub/i wykazów 
+prowadzonych przez inne IZ/IP w ramach dziedziny Analiza finansowa. 
+3. Ocena merytoryczna: 
+1) Ocenie merytorycznej podlega wniosek o dofinansowanie projektu, który: 
+a) z wynikiem pozytywnym został oceniony na etapie oceny finansowej lub 
+b) z wynikiem pozytywnym został oceniony na etapie oceny formalnej – 
+w przypadku jeśli kryteria oceny nie przewidują oceny finansowej, 
+albo gdy ocena merytoryczna prowadzona jest równocześnie z oceną 
+finansową.   
+
+
+26 
+
+2) Ocena merytoryczna dokonywana jest w systemie logicznym (TAK/NIE/NIE 
+DOTYCZY) lub/oraz punktowym. 
+3) Ocena dokonywana w systemie logicznym polega na przyznaniu oceny TAK, 
+NIE lub NIE DOTYCZY w ramach danego kryterium. 
+4) Ocena dokonywana w systemie punktowym polega na przyznaniu przez 
+osobę oceniającą punktów w ramach dopuszczalnych limitów wyznaczonych 
+minimalną i maksymalną liczbą punktów, które projekt może uzyskać w 
+ramach danego kryterium lub przyznaniu zdefiniowanej z góry liczby 
+punktów.  
+Przyznana liczba punktów jest mnożona przez wagę.  
+Końcowa ocena punktowa projektu stanowi średnią arytmetyczną ocen 
+dokonanych przez dwoje oceniających, jest również prezentowana w ujęciu 
+procentowym, jako stosunek otrzymanej (średniej) liczby punktów do 
+maksymalnej liczby punktów możliwych do zdobycia na etapie oceny 
+merytorycznej.   
+5) Ocena dokonywana jest przez: 
+a) ekspertów wpisanych do Wykazu ekspertów FEM lub/i wykazów 
+prowadzonych przez inne IZ/IP w ramach poszczególnych dziedzin; 
+b) lub/i pracowników IZ. 
+6) Ocena merytoryczna przeprowadzana jest co do zasady przez dwoje 
+oceniających. 
+§21 
+1. Ocena projektu może zakończyć się wynikiem pozytywnym lub 
+negatywnym. 
+2. Pozytywny wynik oceny oznacza skierowanie projektu na kolejny etap oceny lub 
+wybór projektu do dofinansowania. 
+3. Pozytywny wynik oceny ma miejsce w przypadku: 
+1) na etapie oceny formalnej i finansowej – przyznania oceny TAK we 
+wszystkich kryteriach oceny formalnej i oceny finansowej dotyczących 
+projektu; 
+2) na etapie oceny merytorycznej: 
+a) przyznania oceny TAK we wszystkich kryteriach logicznych dotyczących 
+projektu; 
+b) otrzymania przez projekt (średniej) liczby punktów stanowiących co 
+najmniej 40% maksymalnej liczby punktów możliwych do uzyskania 
+na etapie oceny merytorycznej. 
+
+
+27 
+
+3) w przypadku równocześnie prowadzonej oceny finansowej 
+i merytorycznej: 
+a) przyznania oceny TAK w kryterium oceny finansowej; 
+b) przyznania oceny TAK we wszystkich kryteriach logicznych oceny 
+merytorycznej dotyczących projektu; 
+c) otrzymania przez projekt (średniej) liczby punktów stanowiących co 
+najmniej 40% maksymalnej liczby punktów możliwych do uzyskania na 
+etapie oceny merytorycznej. 
+4. Negatywną oceną jest każda ocena w zakresie spełniania przez projekt kryteriów 
+wyboru projektów, na skutek której projekt nie może być zakwalifikowany do 
+kolejnego etapu oceny lub wybrany do dofinansowania. Jako negatywną ocenę 
+należy również traktować sytuację wyczerpania kwoty przeznaczonej na 
+dofinansowanie projektów w danym postępowaniu. 
+5. Negatywny wynik oceny ma miejsce w przypadku: 
+1) na etapie oceny formalnej i finansowej – przyznania oceny NIE, w co najmniej 
+jednym kryterium oceny formalnej lub oceny finansowej, dotyczącym projektu, 
+po uprzednim wyczerpaniu możliwości uzupełnienia wniosku (o ile wymagają 
+tego zapisy kryteriów wyboru); 
+2) na etapie oceny merytorycznej: 
+a) przyznania przez obydwie osoby oceniające oceny NIE w co najmniej 
+jednym kryterium, ocenianym w systemie logicznym, dotyczącym projektu, 
+po uprzednim wyczerpaniu możliwości uzupełnienia wniosku (o ile 
+wymagają tego zapisy kryteriów wyboru) lub; 
+b) przyznania przez obydwie osoby oceniające 0 (zero) punktów w ramach 
+kryterium dotyczącego ocenianego projektu, dla którego wskazano ocenę 
+0 (zero), jako ocenę skutkującą negatywną oceną projektu, po uprzednim 
+wyczerpaniu możliwości uzupełnienia wniosku (o ile wymagają tego zapisy 
+kryteriów wyboru), lub; 
+c) gdy końcowa (średnia) ocena punktowa, wyznaczona zgodnie z zapisami 
+§20 ust. 3 pkt 4) Regulaminu, stanowi poniżej 40% maksymalnej liczby 
+punktów możliwych do uzyskania na etapie oceny merytorycznej; 
+3) gdy projekt nie może być wybrany do dofinansowania z uwagi na 
+wyczerpanie kwoty przeznaczonej na dofinansowanie projektów w danym 
+naborze. W takim przypadku, dla projektów spełniających wszystkie kryteria, 
+których ocena dokonywana jest w systemie logicznym oraz które uzyskały 
+wymaganą liczbę punktów, może został utworzona lista rezerwowa projektów 
+wybranych do dofinansowania. 
+ 
+
+
+28 
+
+4) w przypadku równocześnie prowadzonej oceny finansowej 
+i merytorycznej: 
+a) przyznania oceny NIE w kryterium oceny finansowej po uprzednim 
+wyczerpaniu możliwości uzupełnienia wniosku (o ile wymagają tego 
+zapisy kryteriów wyboru) lub/i; 
+b) przyznania przez obydwie osoby oceniające oceny NIE w co najmniej 
+jednym kryterium oceny merytorycznej, ocenianym w systemie logicznym, 
+dotyczącym projektu, po uprzednim wyczerpaniu możliwości uzupełnienia 
+wniosku (o ile wymagają tego zapisy kryteriów wyboru) lub/i; 
+c) przyznania przez obydwie osoby oceniające 0 (zero) punktów w ramach 
+kryterium oceny merytorycznej, dotyczącego ocenianego projektu, dla 
+którego wskazano ocenę 0 (zero), jako ocenę skutkującą negatywną 
+oceną projektu, po uprzednim wyczerpaniu możliwości uzupełnienia 
+wniosku (o ile wymagają tego zapisy kryteriów wyboru), lub/i; 
+d) gdy końcowa (średnia) ocena punktowa, wyznaczona zgodnie z zapisami 
+§20 ust. 3 pkt 4) Regulaminu, stanowi poniżej 40% maksymalnej liczby 
+punktów możliwych do uzyskania na etapie oceny merytorycznej. 
+6. W przypadku negatywnej oceny projektu Wnioskodawcy przekazywana jest 
+informacja z wynikiem oceny i jego uzasadnieniem wraz z pouczeniem 
+o możliwości wniesienia protestu oraz kartą oceny formalnej oraz/lub finansowej 
+oraz/lub merytorycznej (za wyjątkiem sytuacji, w której Wnioskodawca otrzymał 
+karty oceny na wcześniejszym etapie). 
+7. W przypadku rozbieżności w ocenie zastosowanie znajdują odpowiednie zapisy 
+Regulaminu KOP. 
+§22 
+1. Wnioskodawca może zostać wezwany przez IZ, w trakcie postępowania, 
+do przedstawienia wyjaśnień/ uzupełnień lub poprawy w odniesieniu do ujętych 
+we wniosku o dofinansowanie projektu informacji w zakresie spełnienia kryteriów 
+wyboru projektów oraz do korekty drobnych błędów. 
+Kryteria, których spełnienie przez projekt może podlegać wyjaśnieniom/ 
+uzupełnieniom/ poprawie wskazane są w Załączniku nr 1 do Regulaminu. 
+2. Zakres wyjaśnień, uzupełnień lub poprawy wniosku o dofinansowanie projektu, o 
+którym mowa w ust. 1 określa wezwanie IZ i może obejmować: 
+1) uzupełnienie brakujących informacji; 
+2) uzupełnienie określonych pól we wniosku; 
+3) dostarczenie brakujących załączników/ dokumentów; 
+4) dostarczenie dokumentów potwierdzających prawdziwość informacji 
+zawartych we wniosku o dofinansowanie i złożonych oświadczeniach; 
+
+
+29 
+
+5) wyjaśnienie oraz / lub poprawę błędnych, niespójnych, niekompletnych 
+lub sprzecznych informacji; 
+6) modyfikację budżetu projektu, w szczególności konieczność podniesienia 
+lub obniżenia kosztów kwalifikowalnych i/ lub dofinansowania, z 
+zastrzeżeniem przepisów dotyczących pomocy publicznej. 
+3. Termin przedstawienia wyjaśnień/uzupełnień lub poprawy oraz termin korekty 
+drobnych błędów wyrażany jest w dniach kalendarzowych.  
+Powyższe terminy są wskazane w wezwaniu IZ i są liczone od dnia 
+następującego po przekazaniu tego wezwania. Na prośbę Wnioskodawcy, 
+wyznaczony termin na złożenie wyjaśnień/uzupełnień/poprawę wniosku lub 
+korektę drobnych błędów może zostać wydłużony. 
+4. Wezwanie Wnioskodawcy do dokonania czynności określonych w ust. 1-2 oraz w 
+ust. 11, wstrzymuje bieg terminu oceny wniosku o dofinansowanie projektu, 
+do czasu wykonania przez Wnioskodawcę tych czynności. 
+5. Wyjaśnienie, uzupełnienie lub poprawa wniosku o dofinansowanie projektu 
+odbywają się jednokrotnie na każdym etapie oceny. 
+6. Dodatkowo możliwe jest skierowanie projektu do korekty drobnych błędów – 
+jednokrotnie na poszczególnych etapach oceny, a także wielokrotnie przed 
+podpisaniem Umowy/ podjęciem Uchwały/ zawarciem Porozumienia. Korekta 
+dokonywana jest w terminie wskazanym przez IZ. 
+7. Uzupełnieniu/ wyjaśnieniu/ poprawie/ korekcie mogą podlegać wyłącznie 
+elementy wskazane w wezwaniu, chyba że: 
+1) wprowadzane zmiany wywołują konieczność wprowadzenia kolejnych zmian 
+i są konieczne celem zachowania spójności informacji zawartych 
+w dokumentacji – w takich przypadkach Wnioskodawca powinien 
+wprowadzić dodatkowe zmiany do wniosku o dofinansowanie projektu i/lub 
+załączonej do niego dokumentacji;  
+2) dotyczą oczywistych omyłek i błędów rachunkowych i językowych; 
+Zmiany wskazane w pkt 1-2 nie mogą prowadzić do istotnej zmiany całego 
+projektu, a Wnioskodawca zobowiązany jest do przekazania każdorazowo 
+pisemnej informacji o ich wprowadzeniu i odpowiedniego ich uzasadnienia.  
+8. Wnioskodawca może uzupełnić/ poprawić/ skorygować wniosek 
+o dofinansowanie projektu lub załączoną do niego dokumentację w zakresie 
+szerszym niż wskazany przez osoby oceniające, pod warunkiem że przedstawi w 
+tym przedmiocie wyjaśnienia. Wyjaśnienia te podlegają akceptacji osób 
+oceniających. 
+9. W toku oceny na danym etapie pod uwagę będą brane wyłącznie wyjaśnienia/ 
+uzupełnienia/ poprawa/ korekta złożone w wyznaczonym terminie, o którym 
+mowa w ust. 3 i w ust. 11. W przypadku niezłożenia wyjaśnień/ uzupełnień/ 
+
+
+30 
+
+poprawy/ korekty w wymaganej formie lub niezłożenia ich w wyznaczonym 
+terminie, ostateczna ocena projektu odbywa się na podstawie prawidłowo 
+złożonej wersji wniosku o dofinansowanie projektu. 
+10. Za złożony uznaje się wniosek zatwierdzony (zawierający sumę kontrolną), 
+podpisany podpisem kwalifikowanym (dotyczy również etapu uzupełnień/korekty) 
+i przesłany w Systemie IGA w wyznaczonym terminie. W sytuacji, w której 
+Wnioskodawca złoży w terminie wskazanym w wezwaniu poprawiony wniosek o 
+dofinansowanie w wersji roboczej16 (bez sumy kontrolnej), uznaje się, że wniosek 
+ten nie został złożony.  
+11. W przypadku przesłania przez Wnioskodawcę uzupełnionego/skorygowanego 
+wniosku o dofinansowanie z nadaną sumą kontrolną we wskazanym terminie, 
+natomiast błędnie podpisanego lub podpisanego przez osobę nieuprawnioną, 
+IZ wzywa Wnioskodawcę do złożenia tego samego wniosku przesłanego 
+w ramach uzupełnień/korekty opatrzonego poprawnym kwalifikowalnym 
+podpisem elektronicznym osoby uprawnionej lub złożenia pełnomocnictwa dla 
+osoby uprawnionej do reprezentowania Wnioskodawcy, w terminie 3 dni od dnia 
+następującego po dniu wysłania wezwania. Niezastosowanie się do wezwania 
+skutkuje oceną na podstawie ostatniej prawidłowo złożonej wersji wniosku 
+o dofinansowanie projektu. 
+§23 
+1. Jeżeli w trakcie oceny wniosku o dofinansowanie projektu lub przed podpisaniem 
+Umowy / podjęciem Uchwały/ zawarciem Porozumienia , niezbędne jest 
+uzyskanie dodatkowej opinii/ ekspertyzy, IZ na każdym etapie oceny może 
+wystąpić o opinię lub zlecić przeprowadzenie ekspertyzy. Konieczność uzyskania 
+dodatkowej opinii/ ekspertyzy może wstrzymywać bieg terminu rozpatrywania 
+wniosku o dofinansowanie projektu lub podpisania Umowy / podjęcia Uchwały / 
+zawarcia Porozumienia do czasu jej uzyskania. 
+2. Jeżeli po wybraniu projektu do dofinansowania, a przed zawarciem Umowy / 
+podjęciem Uchwały/ zawarciem Porozumienia IZ poweźmie wiedzę o 
+okolicznościach mogących mieć negatywny wpływ na wynik oceny projektu, 
+ponownie kieruje projekt do oceny w stosownym zakresie, o czym informuje 
+Wnioskodawcę. Od negatywnej oceny projektu, Wnioskodawcy przysługuje 
+złożenie protestu. 
+3. Zgodnie z art. 25 ust. 1 Ustawy, Beneficjent jest obowiązany poddać się 
+kontrolom realizacji programu służących zapewnieniu, że system zarządzania 
+i kontroli programu działa prawidłowo, a wydatki w ramach programu są 
+ponoszone zgodnie z przepisami prawa, zasadami krajowymi i unijnymi oraz 
+Umową/ Uchwałą/ Porozumieniem, wykonywanym przez instytucje kontrolujące 
+lub na zlecenie tych instytucji. 
+                                                           
+16 Wniosek niezatwierdzony przez Wnioskodawcę w Systemie IGA, bez nadanej sumy kontrolnej. 
+
+
+31 
+
+Powyższe kontrole, mogą być prowadzone od dnia złożenia wniosku 
+o dofinansowanie projektu do dnia wskazanego w Umowie/ Uchwale/ 
+Porozumieniu. 
+§24 
+1. Zatwierdzenie przez ZWM w drodze uchwały listy podstawowej projektów, które 
+spełniły kryteria wyboru i uzyskały wymaganą liczbę punktów oraz mieszczą się 
+w dostępnej alokacji wskazanej w §11 Regulaminu, jest równoznaczne 
+z wyborem do dofinansowania projektu/ów znajdujących się na tej liście. Ponadto 
+ZWM, w ramach powyższej Uchwały, może zatwierdzić listę rezerwową 
+projektów, które spełniły kryteria oceny i uzyskały wymaganą liczbę punktów, 
+jednak kwota alokacji jest niewystarczająca na ich dofinansowanie (jeśli dotyczy). 
+Decyzja w zakresie utworzenia listy rezerwowej podjęta zostanie na etapie 
+rozstrzygania postępowania. 
+2. Podjęcie Uchwały o której mowa w ust. 1 stanowi moment rozstrzygnięcia 
+postępowania i jest dokonywane w terminie 21 dni kalendarzowych od dnia 
+zakończenia oceny wniosków o dofinansowanie projektów, z zastrzeżeniem 
+ust. 5. 
+3. Listy ocenionych projektów, o których mowa w ust. 1, uszeregowane są 
+w kolejności od projektów, które uzyskały największą liczbę punktów 
+do projektów najniżej ocenionych. 
+4. Jeśli w kryteriach wyboru projektów wskazano kryterium o charakterze 
+rozstrzygającym, wówczas punktacja otrzymana w oparciu o to kryterium 
+decyduje o kolejności umieszczenia projektów z taką samą liczbą punktów 
+na liście podstawowej oraz liście rezerwowej. Projekt z wyższą liczbą punktów 
+z kryterium rozstrzygającego zostanie umieszczony wyżej na liście, niż projekt 
+z niższą liczbą punktów w ramach tego kryterium. W przypadku wskazania kilku 
+kryteriów rozstrzygających sposób ich stosowania określony został w kryteriach 
+wyboru stanowiących Załącznik nr 1 do Regulaminu. 
+5. Możliwość dofinansowania projektów z listy rezerwowej, o której mowa w ust. 1, 
+istnieje do momentu rozstrzygnięcia kolejnego postępowania dotyczącego 
+Priorytetu 2 Fundusze Europejskie dla środowiska, Działanie 2.9 
+Gospodarowanie wodami, typ projektu A Zwiększenie retencyjności zlewni, w 
+tym: rozwój różnych form małej retencji w ramach FEM 2021-2027 lub 
+do momentu zamknięcia perspektywy finansowej 2021-2027, w zależności 
+od tego, która z okoliczności wystąpi jako pierwsza. 
+6. Projekty, które uzyskały tę samą liczbę punktów i znalazły się na tej samej 
+pozycji po uwzględnieniu kryterium rozstrzygającego, mogą zostać wybrane do 
+dofinansowania tylko w sytuacji, gdy alokacja o której mowa w §11 Regulaminu  
+jest wystarczająca, aby objąć dofinansowaniem wszystkie te projekty. 
+
+
+32 
+
+7. Listy podstawowa oraz rezerwowa są aktualizowane i publikowane na stronie 
+internetowej programu oraz na Portalu, w ciągu 7 dni, od podjęcia uchwały 
+w sprawie wyboru kolejnego projektu do dofinansowania przez ZWM. 
+8. Zmiany w zakresie całkowitej wartości projektu, całkowitej wartości kosztów 
+kwalifikowalnych, poziomu dofinansowania projektu oraz zmniejszenia kwoty 
+dofinansowania nie wymagają zmiany uchwały, o której mowa w ust. 1. 
+9. Listy, o których mowa w ust. 1 podlegają aktualizacji po rozpatrzeniu wszystkich 
+protestów i zakończeniu procedury oceny, z zastrzeżeniem, że w przypadku 
+uwzględnienia protestu polegającego na wyborze projektu do dofinansowania 
+listy te, aktualizowane są na bieżąco. 
+10. Aktualizacja list, o których mowa w ust. 1 następuje również sukcesywnie po 
+zakończeniu procedury sądowo-administracyjnej i zakończeniu procedury oceny. 
+11. W przypadku, gdy kwota alokacji wskazana w §11 Regulaminu jest 
+niewystarczająca do dofinansowania projektu w wysokości wskazanej przez 
+Wnioskodawcę we wniosku o dofinansowanie projektu, IZ może, za pisemną 
+zgodą Wnioskodawcy, obniżyć poziom dofinansowania dla projektu, przy czym 
+brakujące środki muszą zostać zabezpieczone przez Wnioskodawcę. Jeśli 
+Wnioskodawca, nie wyrazi zgody na obniżenie poziomu dofinansowania, 
+zapytanie kierowane jest do kolejnych Wnioskodawców, zgodnie z pozycją 
+na listach, o których mowa w ust. 1. Nie dotyczy to sytuacji opisanej w ust. 6.  
+12. W przypadku pojawienia się wolnych środków po podjęciu uchwały, o której 
+mowa w ust. 1 i po aktualizacji list, dokonanej zgodnie z ust. 9 i 10, są one 
+przeznaczone na dofinansowanie projektów zgodnie z pozycją zajmowaną na 
+liście, na następujących zasadach: 
+1) dofinansowanie jest przyznawane projektom w kolejności od tych 
+zajmujących najwyższą pozycję na liście, 
+2) dofinansowanie obniżone zgodnie z ust. 11 może zostać zwiększone17, 
+o ile brak jest na liście projektów zajmujących wyższą pozycję. 
+§25 
+1. Podpisanie Umowy / podjęcie Uchwały/ zawarciem Porozumienia dla projektu 
+znajdującego się na liście podstawowej następuje po dostarczeniu wszystkich 
+wymaganych i kompletnych dokumentów, o których mowa w ust. 2 i 5 oraz 
+wymienionych w Załącznikach nr 2 i 7 do Regulaminu18.  
+2. W przypadku projektu, w stosunku do którego IZ dopuści możliwość wyboru 
+do dofinansowania bez: 
+
+                                                           
+17 Zwiększenie dofinansowania nie jest możliwe dla projektów objętych pomocą publiczną, dla których 
+obowiązuje efekt zachęty.  
+18 Informacje niezbędne do podpisania Umowy / podjęcia Uchwały/ zawarcia Porozumienia, mogą 
+zostać dołączone do pisma informującego Beneficjenta o wyborze projektu do dofinansowania. 
+
+
+33 
+
+– przeprowadzonego postępowania w sprawie oceny oddziaływania 
+na środowisko (jeśli dotyczy), 
+– poświadczenia posiadania prawa do dysponowania nieruchomościami 
+niezbędnymi do realizacji projektu obejmujące również okres trwałości (jeśli 
+dotyczy, z uwagi na zakres projektu oraz z zastrzeżeniem zapisów kryterium 
+oceny formalnej pn. Dokumenty dotyczące stanu przygotowania projektu do 
+realizacji)19, 
+– poświadczenia zgodności z Miejscowym Planem Zagospodarowania 
+Przestrzennego (dotyczy wyłącznie projektów realizowanych w trybie 
+„zaprojektuj i wybuduj”), 
+– decyzji o warunkach zabudowy lub decyzji o ustaleniu inwestycji celu 
+publicznego (dotyczy wyłącznie projektów realizowanych w trybie „zaprojektuj 
+i wybuduj”)20, 
+– porozumienia lub umowy/ umów o partnerstwie zawartych w związku 
+z realizacją projektu, 
+– oświadczenia / dokumentów wskazujących na zabezpieczenie wkładu 
+własnego, 
+– ostatecznego pozwolenia na budowę lub dokumentów równoważnych (w 
+szczególności decyzji Zezwolenia na Realizację Inwestycji Drogowej (ZRID)), 
+lub zgłoszenia robót budowlanych umożliwiających realizację całego projektu 
+(jeśli dotyczy, z uwagi na zakres projektu oraz z zastrzeżeniem zapisów 
+kryterium oceny formalnej pn. Dokumenty dotyczące stanu przygotowania 
+projektu do realizacji), 
+podpisanie Umowy / podjęcie Uchwały / zawarcie Porozumienia następuje po 
+przedłożeniu przez Wnioskodawcę ww. brakujących dokumentów. Brakujące 
+dokumenty powinny zostać dostarczone w terminie nie późniejszym niż 60 dni od 
+dnia podjęcia przez ZWM uchwały, o której mowa w §24 ust. 1 Regulaminu. 
+Termin ten może zostać przedłużony przez IZ na uzasadnioną prośbę 
+Wnioskodawcy. 
+Jednostki sektora finansów publicznych zwolnione są z obowiązku przedkładania 
+dokumentów potwierdzających zabezpieczenie finansowego wkładu własnego 
+pochodzącego ze środków własnych zabezpieczonych w budżecie jednostki lub/i 
+limitach wydatków na wieloletnie programy inwestycyjne, stanowiących załącznik 
+do uchwały budżetowej. W przypadku jednostek sektora finansów publicznych 
+wymaganym będzie złożenie oświadczenia w zakresie posiadania finansowego 
+
+                                                           
+19 Zgodnie z Podrozdziałem 2.6 pkt 2 Wytycznych dotyczących kwalifikowalności wydatków na lata 
+2021-2027 „Obowiązek zachowania trwałości projektu zgodnie z art. 65 rozporządzenia ogólnego 
+dotyczy projektów EFRR/FS/FST obejmujących inwestycje w infrastrukturę lub inwestycje produkcyjne. 
+(…)”. 
+20 Dokumenty są wymagane, gdy obszar objęty projektem nie jest objęty Miejscowym Planem 
+Zagospodarowania Przestrzennego, a Wnioskodawca nie posiada ostatecznego pozwolenia na 
+budowę lub zgłoszenia robót budowlanych, a projekt nie jest realizowany w oparciu do decyzję ZRID. 
+
+
+34 
+
+wkładu własnego niezbędnego na cele realizacji projektu, kontrasygnowane 
+przez skarbnika/głównego księgowego/kwestora. 
+3. W przypadku projektu w stosunku do którego IZ dopuści możliwość podpisania 
+Umowy/ podjęcia Uchwały / zawarcia Porozumienia bez: 
+ pozwolenia konserwatorskiego (dotyczy wyłącznie projektów realizowanych w 
+trybie „zaprojektuj i wybuduj”),  
+ ostatecznego pozwolenia na budowę lub zgłoszenia robót budowlanych/ 
+ZRID umożliwiających realizację całego projektu (dotyczy wyłącznie 
+projektów realizowanych w trybie "zaprojektuj i wybuduj" oraz realizowanych 
+w oparciu o decyzje wydane na podstawie przepisów szczegółowych (tzw. 
+specustaw)), 
+brakujące dokumenty powinny zostać dostarczone najpóźniej na moment 
+złożenia przez Beneficjenta pierwszego wniosku o płatność, nie będącego 
+wnioskiem sprawozdawczym, obejmującego zakresem roboty budowlane objęte 
+pozwoleniem na budowę/ zgłoszeniem robót budowlanych/ ZRID (jeśli dotyczy), 
+jako dokumenty obligatoryjne bez których niemożliwe jest dokonanie wypłaty 
+środków. 
+W przypadku projektu zakładającego realizacje inwestycji na podstawie zezwoleń 
+wydanych na podstawie przepisów szczegółowych (tzw. specustaw), którym 
+nadano rygor natychmiastowej wykonalności, ostateczne Zezwolenie na 
+Realizację Inwestycji Drogowej (ZRiD) należy złożyć najpóźniej w momencie 
+złożenia końcowego wniosku o płatność. 
+4. W uzasadnionych przypadkach Wnioskodawca może zostać poproszony 
+na każdym etapie oceny o przedstawienie dokumentów wymienionych w ust. 2 
+oraz innych dokumentów/ opinii/ decyzji/ informacji niezbędnych do oceny 
+spełnienia kryteriów wyboru projektów. 
+5. W przypadku projektów objętych pomocą publiczną i pomocą de minimis, przed 
+zawarciem Umowy / podjęciem Uchwały / zawarciem Porozumienia, konieczne 
+jest zweryfikowanie możliwości przyznania pomocy publicznej lub/oraz pomocy 
+de minimis. W związku z tym na tym etapie Wnioskodawca i/lub partnerzy 
+może/mogą zostać wezwani do przedstawienia informacji/dokumentów 
+potwierdzających możliwość przyznania pomocy de minimis/pomocy publicznej w 
+szczególności w zakresie potwierdzenia, że nie znaleźli się w trudnej sytuacji 
+oraz potwierdzających możliwość przyznania dofinansowania w formie pomocy 
+publicznej i /lub pomocy de minimis w wysokości przyjętej uchwałą, o której 
+mowa w §24 ust. 1 Regulaminu.  
+W przypadku zaistnienia ryzyka niespełniania kryterium „Pomoc publiczna” 
+projekt może zostać skierowany do ponownej oceny, zgodnie z §23 ust. 2 
+Regulaminu.  
+
+
+35 
+
+6. Niedostarczenie dokumentów, o których mowa w ust. 2 i 5, w wyznaczonych 
+terminach, lub dostarczenie dokumentów nieprawidłowych/ niezgodnych 
+z wymogami Regulaminu, skutkuje odmową zawarcia Umowy/ podjęcia Uchwały 
+/zawarcia Porozumienia i wykreśleniem projektu z listy projektów wybranych 
+do dofinansowania, o której mowa w §24 ust. 1 Regulaminu. 
+
+3.2 Informacje kierowane do Wnioskodawcy 
+§26 
+1. W trakcie weryfikacji wniosku o dofinansowanie projektu, Wnioskodawca 
+za pośrednictwem Systemu IGA informowany jest o konieczności dokonania 
+określonych czynności w toku postępowania. 
+2. Po zakończeniu oceny projektu, a w przypadku pozytywnej oceny na etapie 
+merytorycznym, po podjęciu uchwały o której mowa w §24 ust. 1 Regulaminu, IZ 
+przekazuje niezwłocznie Wnioskodawcy informację zawierającą kartę oceny 
+formalnej, finansowej i merytorycznej wraz z wynikiem oceny jego projektu, 
+uzasadnieniem dla dokonanej oceny oraz podaniem punktacji otrzymanej przez 
+projekt lub informację o spełnieniu albo niespełnieniu kryteriów wyboru. 
+3. W przypadku oceny negatywnej informacja, o której mowa w ust. 2 zawiera 
+dodatkowo pouczenie o przysługującym prawie do wniesienia protestu. 
+§27 
+W przypadkach przewidzianych w Regulaminie, IZ może opublikować na stronie 
+internetowej programu informacje skierowane do ogółu Wnioskodawców biorących 
+udział w postępowaniu. Za moment otrzymania informacji uznaje się w takich 
+przypadkach dzień umieszczenia informacji na stronie. 
+
+3.3 Podanie do publicznej wiadomości wyników oceny 
+§28 
+1. Zgodnie z art. 54 ust. 4 Ustawy po każdym etapie oceny, IZ niezwłocznie 
+zamieszcza na swojej stronie internetowej programu oraz Portalu, listę projektów 
+zakwalifikowanych do kolejnego etapu oceny. 
+2. Zgodnie z art. 57 ust. 1 Ustawy po zatwierdzeniu wyników oceny dla wszystkich 
+projektów objętych postępowaniem i po podjęciu uchwały, o której mowa 
+w §24 ust. 1 Regulaminu, IZ zamieszcza na swojej stronie internetowej programu 
+oraz na Portalu listę projektów wybranych do dofinansowania, tj. tych, które 
+spełniły kryteria wyboru, uzyskały wymaganą liczbę punktów i mieszczą się w 
+ramach dostępnej alokacji (lista podstawowa) i listy projektów, które otrzymały 
+ocenę negatywną, w tym listę projektów, które uzyskały wymaganą liczbę 
+punktów, ale nie mieszczą się w ramach dostępnej alokacji (lista rezerwowa). 
+
+
+36 
+
+Zakończenie naboru i opublikowanie tej informacji dla wszystkich projektów 
+złożonych w postępowaniu oznacza zakończenie tego postępowania. 
+3. IZ zamieszcza na swojej stronie internetowej programu oraz Portalu, informację o 
+zmianach w zakresie list, o których mowa w ust. 1-2. 
+
+ROZDZIAŁ 4 PROCEDURA ODWOŁAWCZA 
+§29 
+1. Zgodnie z art. 63 Ustawy, w przypadku negatywnej oceny projektu, 
+Wnioskodawcy przysługuje prawo wniesienia protestu w celu ponownego 
+sprawdzenia złożonego wniosku o dofinansowanie projektu w zakresie spełniania 
+kryteriów wyboru projektów. 
+2. Instytucją właściwą do rozpatrzenia protestu jest IZ, której zadania w zakresie 
+procedury odwoławczej wykonuje Departament MW. 
+3. Pismo z informacją o negatywnym wyniku oceny projektu przekazywane jest 
+Wnioskodawcy na zasadach i w trybie określonym w §56 ust. 4 Ustawy. 
+4. Szczegółowe zasady dotyczące procedury odwoławczej w ramach FEM 
+2021-2027 znajdują się w Załączniku Nr 5 do Regulaminu. 
+5. Do procedury odwoławczej stosuje się art. 24 KPA oraz przepisy KPA dotyczące 
+doręczeń i sposobu obliczania terminów. 
+
+ 
+
+ 
+
+
+37 
+
+ROZDZIAŁ 5 REALIZACJA PROJEKTU 
+
+5.1 Umowa / Uchwała / Porozumienie 
+§30 
+1. Podstawę dofinansowania projektu stanowi Umowa, w przypadku projektów, 
+których Beneficjentem jest Województwo Małopolskie – Uchwała, a w 
+odniesieniu do projektów, których Beneficjentem jest państwowa jednostka 
+budżetowa – Porozumienie. Wzory Umowy / Uchwały/ Porozumienia stanowią 
+Załączniki 4a-4c do Regulaminu.  
+2. IZ zastrzega możliwość zmiany zapisów Umowy / Uchwały / Porozumienia, 
+wynikających z dostosowania do zmieniających się aktów prawnych, stanowisk 
+IZ FEM 2021-2027 lub wytycznych. Zmiany Umowy / Uchwały / Porozumienia są 
+dokonywane w sposób i na warunkach w nich zawartych. 
+3. Odmowa podpisania Umowy lub odmowa realizacji projektu zgodnie z Uchwałą, 
+lub odmowa zawarcia Porozumienia, oznacza brak możliwości zakontraktowania 
+projektu oraz wypłaty środków w ramach FEM 2021-2027.. 
+4. Umowa / Uchwała / Porozumienie jest sporządzana i podpisywana w formie 
+papierowej, zaś załączniki do niej są sporządzane w formie elektronicznej i 
+przekazywane za pomocą Systemu IGA. 
+5. Beneficjent zobowiązuje się realizować projekt zgodnie z zasadami określonymi 
+w Umowie / Uchwale/ Porozumieniu oraz wnioskiem o dofinansowanie projektu. 
+6. Po podpisaniu Umowy Wnioskodawca zobowiązany jest złożyć zabezpieczenie 
+prawidłowej realizacji projektu, wynikające z przedmiotowej Umowy, w formie i w 
+terminie określonym w Załączniku nr 4a do Regulaminu. 
+7. W momencie podpisania Umowy / podjęcia Uchwały/ zawarcia Porozumienia 
+Wnioskodawca staje się Beneficjentem. 
+8. W razie niewykonania zobowiązań zastrzeżonych Umową / Uchwałą / 
+Porozumieniem, kwota przekazanego wsparcia podlegać będzie zwrotowi wraz z 
+należnymi odsetkami. 
+§31 
+1. Umowa nie może być zawarta, a Uchwała nie może być podjęta, w przypadku 
+gdy: 
+1) Wnioskodawca nie dokonał czynności, które powinny zostać dokonane przed 
+zawarciem Umowy / podjęciem Uchwały / zawarciem Porozumienia w 
+terminie ich dokonania, w tym nie złożył wymaganych dokumentów 
+wskazanych w piśmie o wyborze projektu do dofinansowania, 
+2) Wnioskodawca został wykluczony z możliwości otrzymania dofinansowania 
+na podstawie przepisów odrębnych, 
+
+
+38 
+
+3) Wnioskodawca zrezygnował z dofinansowania, 
+4) doszło do unieważnienia postępowania w zakresie wyboru projektów. 
+2. IZ może odmówić zawarcia Umowy / podjęcia Uchwały / zawarcia Porozumienia, 
+w przypadku wystąpienia sytuacji, o której mowa w art. 61 ust. 4 Ustawy. 
+
+5.2 Działania informacyjne i promocyjne 
+§32 
+1. Zgodnie z Umową / Uchwałą / Porozumieniem, Beneficjent jest zobowiązany do 
+wypełniania obowiązków informacyjnych i promocyjnych, w tym informowania 
+społeczeństwa o dofinansowaniu projektu przez Unię Europejską, zgodnie 
+Rozporządzeniem Parlamentu Europejskiego i Rady (UE) Nr 2021/1060 z dnia 
+24 czerwca 2021 r.  
+2. Szczegółowe zasady działań promocyjnych zawarte zostały w Umowie / Uchwale 
+/ Porozumieniu. 
+
+ROZDZIAŁ 6 POSTANOWIENIA OGÓLNE 
+
+6.1 Terminy i doręczenia 
+§33 
+1. Terminy realizacji czynności wskazanych w Regulaminie, jeśli nie określono 
+inaczej, wyrażone są w dniach kalendarzowych. 
+2. Przy obliczaniu terminów, o których mowa w Regulaminie, z zastrzeżeniem 
+ust. 4, zastosowanie znajdują przepisy KPA.  
+3. Zgodnie z przepisami KPA: 
+1) jeżeli początkiem terminu oznaczonego w dniach jest pewne zdarzenie, 
+nie uwzględnia się przy obliczaniu terminu dnia, w którym zdarzenie to 
+nastąpiło; upływ ostatniego z wyznaczonej liczby dni uważa się za koniec 
+terminu, 
+2) termin określony w tygodniach kończy się z upływem tego dnia w ostatnim 
+tygodniu, który nazwą odpowiada początkowemu dniowi terminu, 
+3) termin oznaczony w miesiącach kończy się z upływem tego dnia w ostatnim 
+miesiącu, który nazwą lub datą odpowiada początkowemu dniowi terminu, 
+a gdyby takiego dnia nie było – w ostatnim dniu miesiąca, 
+4) jeżeli koniec terminu do wykonania czynności przypada na dzień uznany 
+ustawowo za wolny od pracy lub na sobotę, termin upływa następnego dnia, 
+który nie jest dniem wolnym od pracy ani sobotą, 
+
+
+39 
+
+5) termin uważa się za zachowany, jeżeli przed jego upływem pismo zostało 
+wysłane za pośrednictwem Systemu IGA, a Wnioskodawca otrzymał UPO. 
+4. Szczegółowe zasady dotyczące terminu naboru wniosków o dofinansowanie 
+projektów określone zostały w §5 ust. 1 Regulaminu. 
+§34 
+1. Informacje dla Wnioskodawcy doręczane są za pośrednictwem Systemu IGA. 
+2. W celu doręczenia pisma za pośrednictwem Systemu IGA, IZ przesyła na adresy 
+poczty elektronicznej Wnioskodawcy, wskazane podczas rejestracji Konta w 
+systemie oraz w formularzu przedkładanego wniosku o dofinansowanie projektu, 
+zawiadomienie zawierające: 
+1) wskazanie, że Wnioskodawca może odebrać pismo w formie dokumentu 
+elektronicznego, 
+2) wskazanie Konta i konkretnego projektu, z którego adresat może pobrać 
+pismo dotyczące tego projektu i pod którym powinien dokonać potwierdzenia 
+doręczenia pisma, 
+3) pouczenie dotyczące sposobu odbioru pisma w Systemie IGA. 
+3. Do doręczeń, nie stosuje się przepisów KPA, z zastrzeżeniem ust. 4. Terminy 
+określone w wezwaniach IZ, liczy się od dnia następującego po dniu 
+zarejestrowania pisma w Systemie IGA i przesłania zawiadomienia, 
+o którym mowa w ust. 2. 
+4. Do doręczenia informacji o zakończeniu oceny projektu i jej wyniku stosuje się 
+przepisy działu I rozdziału 8 KPA. 
+
+6.2 Forma i sposób udzielania informacji w kwestiach dotyczących naboru 
+§35 
+1. Informacji dla Wnioskodawców ubiegających się o dofinansowanie udzielają 
+Punkty Informacyjne Funduszy Europejskich w Małopolsce, w godzinach pracy: 
+pon. 8:00 – 18:00, wt. – pt. 8:00 – 16:00, Infolinia: (12) 616 06 16:  
+1) Punkt Informacyjny Funduszy Europejskich w Krakowie, ul. Wielicka 72B, 30-
+552 Kraków, e-mail: PIFE.KRAKOW@umwm.malopolska.pl; 
+2) Punkt Informacyjny Funduszy Europejskich w Nowym Sączu, Rynek 13, 33-
+300 Nowy Sącz, e-mail: PIFE.NOWY.SACZ@umwm.malopolska.pl, 
+3) Punkt Informacyjny Funduszy Europejskich w Nowym Targu, Al. 1000-lecia 
+44, 34-400 Nowy Targ, e-mail: PIFE.NOWY.TARG@umwm.malopolska.pl, 
+4) Punkt Informacyjny Funduszy Europejskich w Tarnowie, Al. Solidarności 5-9, 
+33-100 Tarnów, e-mail: PIFE.TARNOW@umwm.malopolska.pl. 
+
+
+40 
+
+5) Punkt Informacyjny Funduszy Europejskich w Chrzanowie, ul. Grunwaldzka 
+5, 32-500 Chrzanów, e-mail: PIFE.chrzanow@umwm.malopolska.pl 
+2. Ogłoszenie o naborze, dokumentacja dotycząca postępowania oraz informacje 
+kierowane do Wnioskodawców zamieszczone będą na stronie internetowej 
+programu oraz na Portalu. 
+
+6.3 System IGA 
+§36 
+1. Składanie przez Wnioskodawcę wniosku o dofinansowanie, załączników, 
+oświadczeń, wszelkiej korespondencji odbywa się w formie elektronicznej, 
+za pośrednictwem Systemu IGA, po uprzednim założeniu Konta w systemie, 
+z zastrzeżeniem §34 ust. 4 Regulaminu. System jest dostępny na stronie 
+internetowej https://iga.malopolska.pl. Złożenie wniosku o dofinansowanie, 
+załączników, oświadczeń, wszelkiej korespondencji w inny sposób, niż za 
+pośrednictwem Systemu IGA, skutkuje pozostawieniem ich bez rozpatrzenia. 
+Obligatoryjnie wszystkie dokumenty muszą zostać opatrzone 
+kwalifikowanym podpisem elektronicznym.  
+2. Wszystkie czynności dotyczące postępowania, zarówno po stronie 
+Wnioskodawcy, jak i IZ, dokonywane są wyłącznie za pośrednictwem Systemu 
+IGA, z zastrzeżeniem §29 i §34 ust. 4 Regulaminu. Dokonanie czynności w inny 
+sposób nie wywołuje skutków, z zastrzeżeniem §38 ust. 1 Regulaminu. 
+Oświadczenie Beneficjenta dotyczące świadomości skutków niezachowania 
+wskazanej formy komunikacji, zawarte zostało we wniosku o dofinansowanie 
+projektów, w części W Oświadczenia dla wszystkich Wnioskodawców. 
+3. Zasady związane z korzystaniem z Systemu IGA określa Regulamin korzystania 
+z Systemu IGA, zamieszczony na stronie internetowej programu. 
+§37 
+1. IZ zastrzega sobie prawo do: 
+1) okresowego braku dostępu do Systemu IGA w celu rozbudowy lub 
+konserwacji systemu, 
+2) wysyłania na Konto Wnioskodawcy komunikatów technicznych związanych 
+z funkcjonowaniem systemu oraz informacji o bieżących zmianach. 
+2. Czasowa niedostępność Systemu IGA nie stanowi podstawy do wnoszenia 
+roszczeń ze strony Wnioskodawcy. 
+ 
+
+
+41 
+
+§38 
+1. W sytuacji wystąpienia błędów w funkcjonowaniu Systemu IGA, 
+uniemożliwiających złożenie wniosku o dofinansowanie projektu/ dokonanie 
+czynności w sposób przewidziany w §36 Regulaminu, IZ zamieści na stronie 
+internetowej programu informację odnośnie odpowiednich zasad postępowania. 
+2. W przypadku wystąpienia błędów w funkcjonowaniu Systemu IGA, które nie 
+zostały potwierdzone na stronie internetowej programu, uniemożliwiających 
+złożenie wniosku o dofinansowanie projektu/ dokonanie czynności w sposób 
+przewidziany w §36 Regulaminu, Wnioskodawca zobowiązany jest niezwłocznie 
+powiadomić IZ o zaistniałej sytuacji, w celu uzyskania potwierdzenia wystąpienia 
+błędów w systemie. 
+3. Błędy w zapisach formularza wniosku, wynikające z wadliwego funkcjonowania 
+Systemu IGA, które nie wpływają na możliwość złożenia wniosku 
+o dofinansowanie projektu/ dokonanie czynności w sposób przewidziany w §36 
+Regulaminu i które zostały potwierdzone oficjalnie przez IZ, nie stanowią 
+przesłanki do negatywnej oceny wniosku o dofinansowanie projektu. 
+
+6.4 Wymagania dotyczące wniosku o dofinansowanie projektu 
+§39 
+1. Wniosek o dofinansowanie projektu przyjmowany jest wyłącznie 
+za pośrednictwem Systemu IGA. Wniosek złożony w innej formie, np. wniosek 
+wypełniony odręcznie lub w edytorze tekstu (np. MS WORD, Excel), 
+wydrukowany lub zapisany na nośniku elektronicznym (np. płyta CD/ DVD, dysk 
+przenośny) nie będzie rozpatrywany. 
+2. Wniosek o dofinansowanie projektu należy wypełnić w języku polskim. 
+3. Wniosek o dofinansowanie projektu należy wypełnić zgodnie z Wademekum oraz 
+zgodnie Załącznikiem nr 2 do Regulaminu. Wykaz załączników do wniosku o 
+dofinansowanie projektu, wymaganych do złożenia, wraz ze wskazaniem formy i 
+terminu ich przedłożenia stanowi Załącznik nr 3 do Regulaminu. 
+§40 
+1. Zarówno w trakcie trwania naboru, jak i w trakcie oceny wniosku, Wnioskodawcy 
+przysługuje prawo do wycofania wniosku o dofinansowanie projektu. 
+2. Wycofanie wniosku o dofinansowanie projektu odbywa się na pisemną prośbę 
+Wnioskodawcy lub za pośrednictwem Systemu IGA. 
+3. Wycofanie wniosku o dofinansowanie projektu po zamknięciu naboru lub 
+zakończeniu oceny danego wniosku skutkuje rezygnacją z ubiegania się 
+o dofinansowanie. 
+
+
+42 
+
+§41 
+1. Wnioskodawcy przysługuje prawo ponownego złożenia wniosku 
+o dofinansowanie projektu, dotyczącego tego samego projektu, w terminie 
+określonym w §5 ust. 1 Regulaminu. 
+2. W przypadku złożenia przez Wnioskodawcę dwóch lub więcej wniosków 
+o dofinansowanie projektu o tym samym tytule i zbieżnym zakresie rzeczowym 
+w ramach naboru Wnioskodawca, na wezwanie IZ, zobowiązany będzie 
+do wskazania właściwego projektu, który będzie podlegał ocenie. Pozostałe 
+wnioski otrzymają status wycofanych przez Wnioskodawcę. 
+§42 
+Lista wniosków o dofinansowanie projektów, które zostały złożone w terminie, 
+o którym mowa w §5 ust. 1 Regulaminu, opublikowana zostanie na stronie 
+internetowej programu. 
+
+ROZDZIAŁ 7 POSTANOWIENIA KOŃCOWE 
+§43 
+Regulamin wchodzi w życie z dniem podjęcia. 
+§44 
+1. Do czasu rozstrzygnięcia postępowania IZ zastrzega sobie prawo zmiany 
+Regulaminu lub jakiegokolwiek dokumentu określającego warunki postępowania, 
+do którego odwołuje się Regulamin. 
+2. Do czasu rozstrzygnięcia postępowania Regulamin nie będzie zmieniany 
+w sposób skutkujący nierównym traktowaniem Wnioskodawców, chyba że 
+konieczność jego zmiany wynika z przepisów powszechnie obowiązującego 
+prawa. 
+3. Regulamin oraz jego zmiany, zamieszczane są na stronie internetowej programu 
+oraz na Portalu.  
+4. Wprowadzone zmiany obowiązują od daty ich podjęcia, wskazanej w informacji 
+nt. zmian Regulaminu, opublikowanej zgodnie z ust. 3. 
+5. Ocena wniosków o dofinansowanie projektów, złożonych przed datą 
+obowiązywania wprowadzonych zmian odbywać się będzie na dotychczasowych 
+zasadach, chyba że zmiany będą korzystniejsze dla Wnioskodawcy. 
+ 
+
+
+43 
+
+§45 
+Nabór może zostać anulowany w następujących przypadkach: 
+1) wycofania wszystkich projektów z postępowania, przed przystąpieniem do oceny, 
+2) ogłoszenia aktów prawnych lub wytycznych w istotny sposób sprzecznych 
+z postanowieniami niniejszego Regulaminu, 
+3) niemożności przeprowadzenia postępowania z uwagi na planowaną zmianę 
+kryteriów wyboru projektów lub SZOP FEM 2021-2027. 
+IZ zamieszcza na stronie internetowej programu oraz na Portalu oraz informację 
+o anulowaniu naboru wraz z uzasadnieniem. Informacja umieszczana jest w ciągu 
+7 dni od podjęcia decyzji o anulowaniu. 
+§46 
+Nabór może zostać unieważniony w następujących przypadkach: 
+1) nie złożenia żadnego wniosku o dofinansowanie projektu w naborze, 
+2) wystąpienia istotnej zmiany okoliczności powodującej, że wybór projektów do 
+dofinansowania nie leży w interesie publicznym, czego nie można było wcześniej 
+przewidzieć, 
+3) gdy postępowanie obarczone jest niemożliwą do usunięcia wadą prawną. 
+IZ zamieszcza na stronie internetowej programu oraz na Portalu oraz informację 
+o unieważnieniu naboru wraz z uzasadnieniem. Informacja umieszczana jest w ciągu 
+7 dni od podjęcia decyzji o unieważnieniu. 
+§47 
+W sprawach nieuregulowanych w Regulaminie zastosowanie mają przepisy prawa 
+powszechnie obowiązującego. 
+ 
+
+
+44 
+
+ROZDZIAŁ 8 WYKAZ DEFINICJI 
+§48 
+Użyte w Regulaminie skróty i definicje oznaczają:  
+1) Alokacja – kwota środków EFRR i budżetu państwa (BP) przeznaczonych 
+na dofinansowanie projektów w ramach postępowania określona w §11 
+Regulaminu. 
+2) Badanie ewaluacyjne - to badanie społeczno-ekonomiczne, którego celem jest 
+oszacowanie jakości wartości procesu oraz efektów wdrażania interwencji 
+publicznych w odniesieniu do jasno sformułowanych kryteriów. 
+3) Beneficjent – podmiot, o którym mowa w art. 2 pkt 9 Rozporządzenia 
+Parlamentu Europejskiego i Rady (UE) Nr 2021/1060 z dnia 24 czerwca 2021 r. 
+4) Doręczenia elektroniczne – doręczenia korespondencji dokonywane zgodnie z 
+zasadami określonymi w ustawie z dnia 18 listopada 2020 r. o doręczeniach 
+elektronicznych. 
+5) Drobne błędy – drobne omyłki pisarskie/ rachunkowe oraz drobne błędy we 
+wniosku o dofinansowanie projektu. Korekta drobnych błędów możliwa jest na 
+każdym etapie oceny wniosku o dofinansowanie projektu, jak również, przed 
+podpisaniem Umowy / podjęciem Uchwały / zawarciem Porozumienia. 
+6) Ekspert – osoba, o której mowa w art. 80 ust. 1 Ustawy uczestnicząca 
+w procesie wyboru projektów do dofinansowania złożonych w ramach FEM 2021-
+2027 lub w wykonywaniu zadań związanych z realizacją praw i obowiązków 
+właściwej instytucji wynikających z Umowy/ Uchwały/ Porozumienia lub 
+związanych z procedurą odwoławczą.  
+7) Instytucja Zarządzająca programem Fundusze Europejskie dla Małopolski 
+2021-2027 – Zarząd Województwa Małopolskiego (ZWM), którego zadania 
+związane z bezpośrednią obsługą procesu oceny wniosków o dofinansowanie 
+projektów, czynnościami związanymi z podpisaniem o dofinansowanie 
+projektu/przygotowaniem Uchwały ZWM w sprawie podjęcia decyzji 
+o dofinansowaniu Projektu, dla którego Beneficjentem jest Województwo 
+Małopolskie / zawarciem Porozumienia o dofinansowanie projektu, a także z 
+rozliczeniem i kontrolą projektu wykonywane są przez Departament FE, 
+ul. Wielicka 72 B, 30-552 Kraków.  
+Natomiast zadania związane z realizacją procedury odwoławczej w ramach FEM 
+2021-2027, z prowadzeniem Wykazu ekspertów FEM 2021-2027 oraz 
+udzielaniem informacji Wnioskodawcom ubiegającym się o dofinansowanie 
+w kwestiach dotyczących naboru wykonywane są przez Departament MW. 
+8) Komitet Monitorujący FEM 2021-2027 – podmiot, o którym mowa w art. 38 
+Rozporządzenia Parlamentu Europejskiego i Rady (UE) Nr 2021/1060 z dnia 
+24 czerwca 2021 r. 
+
+
+45 
+
+9) Komisja Oceny Projektów – powołana Poleceniem służbowym Dyrektora 
+Departamentu FE dla oceny spełnienia kryteriów wyboru projektów w ramach 
+FEM 2021-2027. Szczegółowy tryb i zakres działania, jak również skład i sposób 
+powoływania członków Komisji określa Załącznik do Uchwały Nr 1159/23 ZWM z 
+dnia 20 czerwca 2023 r. 
+10) Kryteria wyboru projektów – kryteria umożliwiające ocenę projektu, 
+zatwierdzone przez KM FEM 2021-2027. 
+11) Kwalifikowany podpis elektroniczny – podpis elektroniczny w rozumieniu art. 3 
+pkt. 12 Rozporządzenia Parlamentu Europejskiego i Rady (UE) Nr 910/2014 z 
+dnia 23 lipca 2014 r. w sprawie identyfikacji elektronicznej i usług zaufania w 
+odniesieniu do transakcji elektronicznych na rynku wewnętrznym oraz uchylające 
+dyrektywę 1999/93/WE oznacza zaawansowany podpis elektroniczny, który jest 
+składany za pomocą kwalifikowanego urządzenia do składania podpisu 
+elektronicznego i który opiera się na kwalifikowanym certyfikacie podpisu 
+elektronicznego oraz podpis elektroniczny w rozumieniu art. 131 ustawy z dnia 5 
+września 2016 r. o usługach zaufania oraz identyfikacji elektronicznej, który 
+weryfikowany jest za pomocą ważnego kwalifikowanego certyfikatu. 
+Za prawidłowy uznawany będzie wyłącznie podpis elektroniczny w formie 
+pliku o rozszerzeniu .xades, (w tej samej lokalizacji, co podpisywany plik), 
+zaświadczający o nieingerencji w treść pliku. Jakakolwiek ingerencja 
+w treść pliku źródłowego po jego podpisaniu spowoduje negatywną 
+weryfikację podpisu. 
+12) Minimalny wkład własny Beneficjenta – minimalny wymagany udział środków 
+Beneficjenta, w wydatkach kwalifikowalnych i niekwalifikowanych projektu 
+(w formie finansowej lub wkładu niepieniężnego), pochodzących ze środków 
+własnych Beneficjenta lub innych zewnętrznych źródeł finansowania.  
+13) Obiekty małej retencji – budowle i urządzenia służące gromadzeniu wody w 
+okolicy poprzez zatrzymanie jak największej ilości wody w jej powierzchniowym i 
+przypowierzchniowym obiegu. Są to np.:  
+a) naturalne i sztuczne zbiorniki wodne o pojemności do 5 mln m3; 
+b) samodzielne budowle piętrzące 
+c) inne budowle piętrzące 
+14) Partner – podmiot wymieniony we wniosku o dofinansowanie projektu, 
+uczestniczący w realizacji projektu, wnoszący do niego zasoby ludzkie, 
+organizacyjne, techniczne bądź finansowe, realizujący projekt wspólnie 
+z Wnioskodawcą/ Beneficjentem (tj. partnerem wiodącym uprawnionym do 
+reprezentowania pozostałych partnerów projektu) i ewentualnie innymi 
+podmiotami, na warunkach określonych w porozumieniu lub w umowie 
+o partnerstwie. Partnerem w projekcie może być wyłącznie podmiot, wskazany w 
+§9 ust. 1 Regulaminu. 
+
+
+46 
+
+15) Pomoc de minimis – wielkość pomocy ze strony państwa, która nie wymaga jej 
+wcześniejszego notyfikowania do Komisji Europejskiej. Pomoc de minimis nie 
+stanowi pomocy publicznej. 
+16) Pomoc publiczna – pomoc spełniająca kryteria określone w art. 107 ust. 1 
+Traktatu o funkcjonowaniu Unii Europejskiej. Wsparcie dla przedsiębiorstwa ma 
+miejsce wówczas, kiedy spełnione są następujące warunki: 
+– występuje transfer środków publicznych, 
+– podmiot uzyskuje korzyść ekonomiczną, 
+– wsparcie ma charakter selektywny, tzn. uprzywilejowuje określony lub 
+określone podmioty albo produkcję określonych towarów, 
+– grozi zakłóceniem lub zakłóca konkurencję na rynku unijnym oraz wpływa na 
+wymianę handlową między krajami członkowskimi UE. 
+Za przedsiębiorstwo o którym mowa w art. 107 ust. 1 Traktatu 
+o funkcjonowaniu Unii Europejskiej uznaje się podmiot prowadzący działalność 
+gospodarczą bez względu na jego formę prawną, zgodnie z załącznikiem nr 1 do 
+Rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego 
+niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 
+107 i 108 Traktatu. 
+W projektach objętych pomocą publiczną przez beneficjenta pomocy należy 
+rozumieć podmiot osiągający korzyść z wspartej w ramach projektu 
+infrastruktury. 
+17) Porozumienie - Porozumienie o dofinansowaniu Projektu, którego wzór przyjęty 
+jest Uchwałą Nr 2279/23 ZWM z dnia 28 listopada 2023 r., z późn. zm. Wzór 
+Porozumienia obowiązujący w dniu ogłaszania naboru stanowi Załącznik nr 4c 
+do Regulaminu. 
+18) Portal Funduszy Europejskich – portal internetowy, o którym mowa w art. 46 
+lit. b Rozporządzenia Parlamentu Europejskiego i Rady (UE) Nr 2021/1060 
+z dnia 24 czerwca 2021 r. 
+19) Pracownik IZ – pracownik Instytucji Zarządzającej i/ lub Instytucji 
+Pośredniczącej mogący uczestniczyć w procesie wyboru projektów do 
+dofinansowania złożonych w ramach FEM 2021-2027. 
+20) Projekt – przedsięwzięcie zmierzające do osiągnięcia założonego celu 
+określonego wskaźnikami, z określonym zakresem rzeczowym oraz określonym  
+początkiem i końcem realizacji, zgłoszone do objęcia albo objęte finansowaniem 
+UE w ramach FEM 2021-2027, odnośnie którego Wnioskodawca lub Beneficjent 
+złożył za pośrednictwem systemu informatycznego IGA (dalej: Systemu IGA) 
+wniosek o dofinansowanie wraz z załącznikami. 
+21) Projekt hybrydowy – przedsięwzięcie polegające na wspólnej realizacji 
+i finansowaniu projektu przez partnerstwo publiczno-prywatne w rozumieniu art. 2 
+
+
+47 
+
+pkt. 15 Rozporządzenia Parlamentu Europejskiego i Rady (UE) Nr 2021/1060 z 
+dnia 24 czerwca 2021 r., utworzone w celu realizacji inwestycji infrastrukturalnej 
+połączone z utrzymaniem lub zarządzaniem przedmiotem inwestycji za 
+wynagrodzeniem i którego realizacja sfinansowana jest z uwzględnieniem 
+środków UE. Projekty hybrydowe obejmują tę część projektów PPP, w której 
+partner prywatny ponosi wydatki inwestycyjne podlegające finansowaniu UE. 
+22) Projekt zakończony – projekt, dla którego (dla wszystkich jego etapów) przed 
+dniem złożenia wniosku o dofinansowanie projektu nastąpił odbiór ostatnich 
+robót, dostaw lub usług. Do finansowania ze środków UE nie można przedłożyć 
+projektu, który został fizycznie ukończony (w przypadku robót budowlanych) lub 
+w pełni zrealizowany (w przypadku dostaw i usług) przed przedłożeniem IZ FEM 
+2021-2027 wniosku o dofinansowanie projektu w ramach FEM 2021-2027, 
+niezależnie od tego, czy wszystkie dotyczące tego projektu płatności zostały 
+przez Beneficjenta dokonane. 
+W przypadku, gdy inwestycja realizowana jest etapami i jeden lub więcej etapów, 
+stanowiący odrębną i samodzielną część projektu (możliwy do wyodrębnienia 
+zakres rzeczowy i finansowy oraz odrębność funkcjonalna produktów) zgłoszony 
+do objęcia wsparciem, zostanie ukończony, tj. gdy przed złożeniem wniosku o 
+dofinansowanie nastąpi odbiór robót budowlanych, dostaw lub usług, w tym 
+etapie, to co do zasady, ta część inwestycji nie będzie mogła uzyskać 
+dofinansowania w ramach FEM 2021-2027. 
+23) Przedsiębiorca: 
+– w odniesieniu do typów potencjalnych Beneficjentów, definiowany jako osoba 
+fizyczna, osoba prawna lub jednostka organizacyjna niebędąca osobą prawną, 
+której odrębna ustawa przyznaje zdolność prawną – wykonująca we własnym 
+imieniu działalność gospodarczą w rozumieniu ustawy z dnia 6 marca 2018 r. 
+Prawo przedsiębiorców, wpisana odpowiednio do Centralnej Ewidencji i 
+Informacji o Działalności Gospodarczej lub rejestru przedsiębiorców w 
+Krajowym Rejestrze Sądowym, 
+– w odniesieniu do zagadnień związanych z pomocą publiczną i pomocą 
+de minimis, definiowany zgodnie z załącznikiem nr 1 do Rozporządzenia 
+Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre 
+rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 
+108 Traktatu. 
+24) Regulamin KOP – Regulamin prac Komisji Oceny Projektów w ramach 
+programu Fundusze Europejskie dla Małopolski 2021-2027, który stanowi 
+Załącznik do Uchwały Nr 1159/23 ZWM z dnia 20 czerwca 2023 r. 
+25) System IGA – lokalny system informatyczny (Internetowy Generator Aplikacyjny) 
+udostępniany przez IZ. System umożliwia samodzielne wykonywanie czynności 
+związanych ze złożeniem wniosku o dofinansowanie projektu w zakresie 
+
+
+48 
+
+funkcjonalności Systemu. System jest dostępny na stronie internetowej 
+https://iga.malopolska.pl. 
+26) Szczegółowy Opis Priorytetów programu Fundusze Europejskie dla 
+Małopolski 2021-2027 – przyjęty Uchwałą nr 452/23 Zarządu Województwa 
+Małopolskiego z dnia 23 marca 2023 r., z późn. zm. zamieszczony na stronie 
+internetowej programu w wersji aktualnej na dzień ogłoszenia naboru. 
+27) Uchwała – Uchwała ZWM w sprawie podjęcia decyzji o dofinansowaniu Projektu, 
+dla którego Beneficjentem jest Województwo Małopolskie wraz załącznikami, 
+której wzór przyjęty jest Uchwałą Nr 2279/23 ZWM z dnia 28 listopada 2023 r., z 
+późn. zm Wzór Uchwały obowiązujący w dniu ogłaszania naboru stanowi 
+Załącznik nr 4b do Regulaminu. 
+28) Umowa – Umowa o dofinansowanie projektu, której wzór przyjęty jest Uchwałą 
+Nr 2279/23 ZWM z dnia 28 listopada 2023 r., z późn. zm. Wzór Umowy 
+obowiązujący w dniu ogłaszania naboru stanowi Załącznik nr 4a do Regulaminu. 
+29) Wademekum wiedzy o wniosku – stanowi Załącznik do Uchwały Nr 1160/23 
+ZWM z dnia 20 czerwca 2023 r. 
+30) Wniosek o dofinansowanie projektu – zatwierdzony, tzn. zawierający sumę 
+kontrolną formularz wniosku o dofinansowanie projektu wraz z załącznikami, 
+złożony za pośrednictwem Systemu IGA. 
+31) Wnioskodawca – podmiot, który złożył wniosek o dofinansowanie projektu. 
+32) Wydatek kwalifikowalny – wydatek uznany za kwalifikowalny tj. możliwy do 
+dofinansowania ze środków FEM 2021-2027, poniesiony przez Beneficjenta 
+w związku z realizacją projektu w ramach FEM 2021-2027, zgodnie z Umową / 
+Uchwałą / Porozumieniem oraz Rozporządzeniem Parlamentu Europejskiego i 
+Rady (UE) Nr 2021/1060 z dnia 24 czerwca 2021 r., Wytycznymi dotyczącymi 
+kwalifikowalności wydatków na lata 2021-2027 oraz SzOP FEM 2021-2027. 
+33) Wykaz ekspertów FEM – Wykaz ekspertów wykonujących zadania związane z 
+wyborem projektów do dofinansowania, wynikające z umowy o dofinansowanie 
+projektu albo decyzji o dofinansowanie projektu, związane z procedurą 
+odwoławczą w ramach programu Fundusze Europejskie dla Małopolski 2021-
+2027– wykaz, o którym mowa w art. 81 ust.1 Ustawy przyjęty na potrzeby 
+dokonania oceny projektów ubiegających się o wsparcie w ramach FEM 2021-
+2027. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+49 
+
+ROZDZIAŁ 9 ZAŁĄCZNIKI DO REGULAMINU 
+Załącznik nr 1 Kryteria wyboru projektów. 
+Załącznik nr 2 Wykaz informacji specyficznych i załączników do wniosku 
+o dofinansowanie. 
+Załącznik nr 3 Analiza Finansowa – wzór FEM 2021-2027 
+Załącznik nr 4a Wzór umowy o dofinansowanie Projektu. 
+Załącznik nr 4b Wzór Uchwały ZWM w sprawie podjęcia decyzji o 
+dofinansowaniu projektu. 
+Załącznik nr 4c Wzór Porozumienia o dofinansowaniu Projektu. 
+Załącznik nr 5 Procedura odwoławcza wraz ze wzorem protestu. 
+Załącznik nr 6 Katalog wskaźników obligatoryjnych. 
+Załącznik nr 7 Informacje niezbędne do podpisania umowy o dofinansowanie 
+projektu / przygotowania uchwały w sprawie realizacji projektu 
+dla którego Beneficjentem jest Województwo Małopolskie. 
